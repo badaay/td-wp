@@ -1,0 +1,1021 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: captcha-plus\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-03-11 10:58+0300\n"
+"PO-Revision-Date: 2016-03-11 10:58+0300\n"
+"Last-Translator: BestWebSoft team <wp@bestwebsoft.com>\n"
+"Language-Team: Uroš Klopčič <uros.klopcic@gmail.com>\n"
+"Language: sr_RS\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: captcha-plus.php:17 captcha-plus.php:427
+#, fuzzy
+msgid "Captcha Plus Settings"
+msgstr "Captcha nastavitve"
+
+#: captcha-plus.php:169
+#, fuzzy
+msgid "Please enter a CAPTCHA value."
+msgstr "Prosimo vnesite CAPTCHA vrednost"
+
+#: captcha-plus.php:170
+msgid "Please enter a valid CAPTCHA value."
+msgstr "Prosimo vnesite CAPTCHA vrednost"
+
+#: captcha-plus.php:171
+#, fuzzy
+msgid "Time limit is exhausted. Please enter CAPTCHA value again."
+msgstr "Prosimo vnesite CAPTCHA vrednost"
+
+#: captcha-plus.php:178
+msgid "You are in the white list"
+msgstr ""
+
+#: captcha-plus.php:308
+msgid "Login form"
+msgstr "Obrazec za prijavo"
+
+#: captcha-plus.php:309
+msgid "Registration form"
+msgstr "Obrazec za registracijo"
+
+#: captcha-plus.php:310
+msgid "Reset Password form"
+msgstr "Obrazec za ponastavitev gesla"
+
+#: captcha-plus.php:311
+msgid "Comments form"
+msgstr "Obrazec za komentarje"
+
+#: captcha-plus.php:314
+#, fuzzy
+msgid "in Comments form for registered users"
+msgstr "Skrij CAPTCHA v obrazcu za komentarje za registrirane uporabnike"
+
+#: captcha-plus.php:319
+msgid "Plus (&#43;)"
+msgstr "Plus (&#43;)"
+
+#: captcha-plus.php:319
+msgid "Plus"
+msgstr "Plus (&#43;)"
+
+#: captcha-plus.php:320
+msgid "Minus (&minus;)"
+msgstr "Minus (&minus;)"
+
+#: captcha-plus.php:320
+msgid "Minus"
+msgstr "Minus"
+
+#: captcha-plus.php:321
+msgid "Multiplication (&times;)"
+msgstr "Množenje (&times;)"
+
+#: captcha-plus.php:321
+msgid "Multiply"
+msgstr "Zmnoži (&times;)"
+
+#: captcha-plus.php:326
+msgid "Numbers"
+msgstr "Številke"
+
+#: captcha-plus.php:327
+msgid "Words"
+msgstr "Besede"
+
+#: captcha-plus.php:328
+msgid "Images"
+msgstr ""
+
+#: captcha-plus.php:374
+msgid ""
+"Please select one item in the block Arithmetic and Complexity for CAPTCHA"
+msgstr ""
+"Prosimo izberite eno opcijo v sekciji aritmetičnih operacij in težavnosti za "
+"CAPTCHA"
+
+#: captcha-plus.php:380
+#, fuzzy
+msgid "Please select one item in the block Enable image packages"
+msgstr ""
+"Prosimo izberite eno opcijo v sekciji aritmetičnih operacij in težavnosti za "
+"CAPTCHA"
+
+#: captcha-plus.php:411
+msgid "Settings saved."
+msgstr "Nastavitve shranjene."
+
+#: captcha-plus.php:423
+msgid "All plugin settings were restored."
+msgstr ""
+
+#: captcha-plus.php:429
+msgid "How to Use Step-by-step Instruction"
+msgstr ""
+
+#: captcha-plus.php:432
+msgid "Basic"
+msgstr ""
+
+#: captcha-plus.php:433
+msgid "Advanced"
+msgstr ""
+
+#: captcha-plus.php:434
+msgid "Whitelist"
+msgstr ""
+
+#: captcha-plus.php:435
+msgid "Custom code"
+msgstr ""
+
+#: captcha-plus.php:438
+msgid "Notice:"
+msgstr "Obvestilo:"
+
+#: captcha-plus.php:438
+msgid ""
+"Option to display captcha for Contact Form 7 is enabled. For correct work, "
+"please, dont forget to add the BWS CAPTCHA block to Contact Form 7 to the "
+"needed form (see"
+msgstr ""
+
+#: captcha-plus.php:451 captcha-plus.php:454
+#, fuzzy
+msgid "Enable CAPTCHA for"
+msgstr "Omogoči CAPTCHA za:"
+
+#: captcha-plus.php:455
+msgid "WordPress default"
+msgstr ""
+
+#: captcha-plus.php:461
+msgid "This option is available only for main blog"
+msgstr ""
+
+#: captcha-plus.php:478
+#, fuzzy
+msgid "Plugins"
+msgstr "Vtičniki"
+
+#: captcha-plus.php:485 captcha-plus.php:491 captcha-plus.php:510
+#: captcha-plus.php:519 captcha-plus.php:525
+msgid "You should"
+msgstr ""
+
+#: captcha-plus.php:485 captcha-plus.php:519 includes/whitelist.php:401
+msgid "activate"
+msgstr ""
+
+#: captcha-plus.php:485 captcha-plus.php:519
+msgid "for network"
+msgstr ""
+
+#: captcha-plus.php:485 captcha-plus.php:493 captcha-plus.php:519
+#: captcha-plus.php:525
+msgid "to use this functionality"
+msgstr ""
+
+#: captcha-plus.php:492 captcha-plus.php:525
+#, fuzzy
+msgid "download"
+msgstr "Prenos"
+
+#: captcha-plus.php:510
+msgid "update"
+msgstr ""
+
+#: captcha-plus.php:510
+msgid "at least up to v3.4 to use this functionality"
+msgstr ""
+
+#: captcha-plus.php:536
+msgid "If you would like to add Captcha to a custom form, please see"
+msgstr "Če bi radi dodali Captcha k poljubnemu obrazcu, se obrnite na"
+
+#: captcha-plus.php:541
+#, fuzzy
+msgid "Hide CAPTCHA"
+msgstr "Omogoči CAPTCHA:"
+
+#: captcha-plus.php:548
+msgid "Title"
+msgstr ""
+
+#: captcha-plus.php:552
+msgid "Required symbol"
+msgstr "Zahtevan simbol"
+
+#: captcha-plus.php:558
+msgid "Show \"Reload\" button"
+msgstr ""
+
+#: captcha-plus.php:564 captcha-plus.php:567
+#, fuzzy
+msgid "Arithmetic actions"
+msgstr "Aritmetične operacije za CAPTCHA"
+
+#: captcha-plus.php:579 captcha-plus.php:582
+msgid "Complexity"
+msgstr ""
+
+#: captcha-plus.php:597
+msgid "Enable image packages"
+msgstr ""
+
+#: captcha-plus.php:607
+msgid "Enlarge images on mouseover"
+msgstr ""
+
+#: captcha-plus.php:614
+msgid "Enable time limit"
+msgstr ""
+
+#: captcha-plus.php:620
+msgid "Set time limit"
+msgstr ""
+
+#: captcha-plus.php:623
+msgid "seconds"
+msgstr ""
+
+#: captcha-plus.php:629
+msgid "Notification messages"
+msgstr ""
+
+#: captcha-plus.php:631 captcha-plus.php:912 captcha-plus.php:918
+msgid "Error"
+msgstr ""
+
+#: captcha-plus.php:632
+#, fuzzy
+msgid "If CAPTCHA field is empty"
+msgstr "Ta CAPTCHA je pogrešna"
+
+#: captcha-plus.php:633
+#, fuzzy
+msgid "If CAPTCHA is incorrect"
+msgstr "Ta CAPTCHA je pogrešna"
+
+#: captcha-plus.php:634
+msgid "If time limit is exhausted"
+msgstr ""
+
+#: captcha-plus.php:635
+msgid "Info"
+msgstr ""
+
+#: captcha-plus.php:636
+msgid ""
+"If the user IP is added to the whitelist (this message will be displayed "
+"instead of CAPTCHA)."
+msgstr ""
+
+#: captcha-plus.php:643
+msgid "Save Changes"
+msgstr "Shrani spremembe"
+
+#: captcha-plus.php:766 captcha-plus.php:772 captcha-plus.php:787
+#: captcha-plus.php:789 captcha-plus.php:798 captcha-plus.php:977
+#: captcha-plus.php:985 captcha-plus.php:1031 captcha-plus.php:1035
+#: captcha-plus.php:1044 captcha-plus.php:1067 captcha-plus.php:1077
+#: captcha-plus.php:1095 captcha-plus.php:1098 captcha-plus.php:1106
+msgid "ERROR"
+msgstr "NAPAKA"
+
+#: captcha-plus.php:912 captcha-plus.php:918
+#, fuzzy
+msgid "Click the BACK button on your browser, and try again."
+msgstr ""
+"Napaka: Vnesli ste napačno CAPTCHA vrednost. Vrnite se nazaj in poskušajte "
+"ponovno."
+
+#: captcha-plus.php:1321
+msgid "zero"
+msgstr "nič"
+
+#: captcha-plus.php:1322 captcha-plus.php:1792
+msgid "one"
+msgstr "ena"
+
+#: captcha-plus.php:1323
+msgid "two"
+msgstr "dva"
+
+#: captcha-plus.php:1324
+msgid "three"
+msgstr "tri"
+
+#: captcha-plus.php:1325
+msgid "four"
+msgstr "štiri"
+
+#: captcha-plus.php:1326
+msgid "five"
+msgstr "pet"
+
+#: captcha-plus.php:1327 captcha-plus.php:1792
+msgid "six"
+msgstr "šest"
+
+#: captcha-plus.php:1328 captcha-plus.php:1780 captcha-plus.php:1786
+msgid "seven"
+msgstr "sedem"
+
+#: captcha-plus.php:1329 captcha-plus.php:1783
+msgid "eight"
+msgstr "osem"
+
+#: captcha-plus.php:1330
+msgid "nine"
+msgstr "devet"
+
+#: captcha-plus.php:1332
+msgid "ten"
+msgstr "deset"
+
+#: captcha-plus.php:1333
+msgid "eleven"
+msgstr "enajst"
+
+#: captcha-plus.php:1334
+msgid "twelve"
+msgstr "dvanajst"
+
+#: captcha-plus.php:1335
+msgid "thirteen"
+msgstr "trinajst"
+
+#: captcha-plus.php:1336
+msgid "fourteen"
+msgstr "štirinajst"
+
+#: captcha-plus.php:1337
+msgid "fifteen"
+msgstr "petnajst"
+
+#: captcha-plus.php:1338
+msgid "sixteen"
+msgstr "šestnajst"
+
+#: captcha-plus.php:1339
+msgid "seventeen"
+msgstr "sedemnajst"
+
+#: captcha-plus.php:1340
+msgid "eighteen"
+msgstr "osemnajst"
+
+#: captcha-plus.php:1341
+msgid "nineteen"
+msgstr "devetnajst"
+
+#: captcha-plus.php:1343
+msgid "twenty"
+msgstr "dvajset"
+
+#: captcha-plus.php:1344
+#, fuzzy
+msgid "twenty one"
+msgstr "dvajset"
+
+#: captcha-plus.php:1345
+#, fuzzy
+msgid "twenty two"
+msgstr "dvajset"
+
+#: captcha-plus.php:1346
+#, fuzzy
+msgid "twenty three"
+msgstr "dvajset"
+
+#: captcha-plus.php:1347
+#, fuzzy
+msgid "twenty four"
+msgstr "dvajset"
+
+#: captcha-plus.php:1348
+#, fuzzy
+msgid "twenty five"
+msgstr "dvajset"
+
+#: captcha-plus.php:1349
+#, fuzzy
+msgid "twenty six"
+msgstr "dvajset"
+
+#: captcha-plus.php:1350
+#, fuzzy
+msgid "twenty seven"
+msgstr "dvajset"
+
+#: captcha-plus.php:1351
+#, fuzzy
+msgid "twenty eight"
+msgstr "dvajset"
+
+#: captcha-plus.php:1352
+#, fuzzy
+msgid "twenty nine"
+msgstr "dvajset"
+
+#: captcha-plus.php:1354
+msgid "thirty"
+msgstr "trideset"
+
+#: captcha-plus.php:1355
+#, fuzzy
+msgid "thirty one"
+msgstr "trideset"
+
+#: captcha-plus.php:1356
+#, fuzzy
+msgid "thirty two"
+msgstr "trideset"
+
+#: captcha-plus.php:1357
+#, fuzzy
+msgid "thirty three"
+msgstr "trinajst"
+
+#: captcha-plus.php:1358
+#, fuzzy
+msgid "thirty four"
+msgstr "trideset"
+
+#: captcha-plus.php:1359
+#, fuzzy
+msgid "thirty five"
+msgstr "trideset"
+
+#: captcha-plus.php:1360
+#, fuzzy
+msgid "thirty six"
+msgstr "trideset"
+
+#: captcha-plus.php:1361
+#, fuzzy
+msgid "thirty seven"
+msgstr "trinajst"
+
+#: captcha-plus.php:1362
+#, fuzzy
+msgid "thirty eight"
+msgstr "trideset"
+
+#: captcha-plus.php:1363
+#, fuzzy
+msgid "thirty nine"
+msgstr "trideset"
+
+#: captcha-plus.php:1365
+msgid "forty"
+msgstr "štirideset"
+
+#: captcha-plus.php:1366
+#, fuzzy
+msgid "forty one"
+msgstr "štirideset"
+
+#: captcha-plus.php:1367
+#, fuzzy
+msgid "forty two"
+msgstr "štirideset"
+
+#: captcha-plus.php:1368
+#, fuzzy
+msgid "forty three"
+msgstr "tri"
+
+#: captcha-plus.php:1369
+#, fuzzy
+msgid "forty four"
+msgstr "štirideset"
+
+#: captcha-plus.php:1370
+#, fuzzy
+msgid "forty five"
+msgstr "štirideset"
+
+#: captcha-plus.php:1371
+#, fuzzy
+msgid "forty six"
+msgstr "štirideset"
+
+#: captcha-plus.php:1372
+#, fuzzy
+msgid "forty seven"
+msgstr "sedem"
+
+#: captcha-plus.php:1373
+#, fuzzy
+msgid "forty eight"
+msgstr "osem"
+
+#: captcha-plus.php:1374
+#, fuzzy
+msgid "forty nine"
+msgstr "štirideset"
+
+#: captcha-plus.php:1376
+msgid "fifty"
+msgstr "petdeset"
+
+#: captcha-plus.php:1377
+#, fuzzy
+msgid "fifty one"
+msgstr "petdeset"
+
+#: captcha-plus.php:1378
+#, fuzzy
+msgid "fifty two"
+msgstr "petdeset"
+
+#: captcha-plus.php:1379
+#, fuzzy
+msgid "fifty three"
+msgstr "petnajst"
+
+#: captcha-plus.php:1380
+#, fuzzy
+msgid "fifty four"
+msgstr "petdeset"
+
+#: captcha-plus.php:1381
+#, fuzzy
+msgid "fifty five"
+msgstr "petdeset"
+
+#: captcha-plus.php:1382
+#, fuzzy
+msgid "fifty six"
+msgstr "petdeset"
+
+#: captcha-plus.php:1383
+#, fuzzy
+msgid "fifty seven"
+msgstr "petnajst"
+
+#: captcha-plus.php:1384
+#, fuzzy
+msgid "fifty eight"
+msgstr "osem"
+
+#: captcha-plus.php:1385
+#, fuzzy
+msgid "fifty nine"
+msgstr "petdeset"
+
+#: captcha-plus.php:1387
+msgid "sixty"
+msgstr "šestdeset"
+
+#: captcha-plus.php:1388
+#, fuzzy
+msgid "sixty one"
+msgstr "šestdeset"
+
+#: captcha-plus.php:1389
+#, fuzzy
+msgid "sixty two"
+msgstr "šestdeset"
+
+#: captcha-plus.php:1390
+#, fuzzy
+msgid "sixty three"
+msgstr "šestnajst"
+
+#: captcha-plus.php:1391
+#, fuzzy
+msgid "sixty four"
+msgstr "šestdeset"
+
+#: captcha-plus.php:1392
+#, fuzzy
+msgid "sixty five"
+msgstr "šestdeset"
+
+#: captcha-plus.php:1393
+#, fuzzy
+msgid "sixty six"
+msgstr "šestdeset"
+
+#: captcha-plus.php:1394
+#, fuzzy
+msgid "sixty seven"
+msgstr "šestnajst"
+
+#: captcha-plus.php:1395
+#, fuzzy
+msgid "sixty eight"
+msgstr "osem"
+
+#: captcha-plus.php:1396
+#, fuzzy
+msgid "sixty nine"
+msgstr "šestdeset"
+
+#: captcha-plus.php:1398
+msgid "seventy"
+msgstr "sedemdeset"
+
+#: captcha-plus.php:1399
+#, fuzzy
+msgid "seventy one"
+msgstr "sedemdeset"
+
+#: captcha-plus.php:1400
+#, fuzzy
+msgid "seventy two"
+msgstr "sedemdeset"
+
+#: captcha-plus.php:1401
+#, fuzzy
+msgid "seventy three"
+msgstr "sedemnajst"
+
+#: captcha-plus.php:1402
+#, fuzzy
+msgid "seventy four"
+msgstr "sedemdeset"
+
+#: captcha-plus.php:1403
+#, fuzzy
+msgid "seventy five"
+msgstr "sedemdeset"
+
+#: captcha-plus.php:1404
+#, fuzzy
+msgid "seventy six"
+msgstr "sedemdeset"
+
+#: captcha-plus.php:1405
+#, fuzzy
+msgid "seventy seven"
+msgstr "sedemnajst"
+
+#: captcha-plus.php:1406
+#, fuzzy
+msgid "seventy eight"
+msgstr "sedemdeset"
+
+#: captcha-plus.php:1407
+#, fuzzy
+msgid "seventy nine"
+msgstr "sedemdeset"
+
+#: captcha-plus.php:1409
+msgid "eighty"
+msgstr "osemdeset"
+
+#: captcha-plus.php:1410
+#, fuzzy
+msgid "eighty one"
+msgstr "osemdeset"
+
+#: captcha-plus.php:1411
+#, fuzzy
+msgid "eighty two"
+msgstr "osemdeset"
+
+#: captcha-plus.php:1412
+#, fuzzy
+msgid "eighty three"
+msgstr "osemnajst"
+
+#: captcha-plus.php:1413
+#, fuzzy
+msgid "eighty four"
+msgstr "osemdeset"
+
+#: captcha-plus.php:1414
+#, fuzzy
+msgid "eighty five"
+msgstr "osemdeset"
+
+#: captcha-plus.php:1415
+#, fuzzy
+msgid "eighty six"
+msgstr "osemdeset"
+
+#: captcha-plus.php:1416
+#, fuzzy
+msgid "eighty seven"
+msgstr "osemnajst"
+
+#: captcha-plus.php:1417
+#, fuzzy
+msgid "eighty eight"
+msgstr "osemdeset"
+
+#: captcha-plus.php:1418
+#, fuzzy
+msgid "eighty nine"
+msgstr "osemdeset"
+
+#: captcha-plus.php:1420
+msgid "ninety"
+msgstr "devetdeset"
+
+#: captcha-plus.php:1421
+#, fuzzy
+msgid "ninety one"
+msgstr "devetdeset"
+
+#: captcha-plus.php:1422
+#, fuzzy
+msgid "ninety two"
+msgstr "devetdeset"
+
+#: captcha-plus.php:1423
+#, fuzzy
+msgid "ninety three"
+msgstr "devetnajst"
+
+#: captcha-plus.php:1424
+#, fuzzy
+msgid "ninety four"
+msgstr "devetdeset"
+
+#: captcha-plus.php:1425
+#, fuzzy
+msgid "ninety five"
+msgstr "devetdeset"
+
+#: captcha-plus.php:1426
+#, fuzzy
+msgid "ninety six"
+msgstr "devetdeset"
+
+#: captcha-plus.php:1427
+#, fuzzy
+msgid "ninety seven"
+msgstr "devetnajst"
+
+#: captcha-plus.php:1428
+#, fuzzy
+msgid "ninety eight"
+msgstr "devetdeset"
+
+#: captcha-plus.php:1429
+#, fuzzy
+msgid "ninety nine"
+msgstr "devetdeset"
+
+#: captcha-plus.php:1494
+msgid "Encryption password is not set"
+msgstr "Geslo za šifriranje ni določeno"
+
+#: captcha-plus.php:1514
+msgid "Decryption password is not set"
+msgstr "Geslo za dešifriranje ni določeno"
+
+#: captcha-plus.php:1862 captcha-plus.php:1875
+msgid "Settings"
+msgstr "Nastavitve"
+
+#: captcha-plus.php:1876
+msgid "FAQ"
+msgstr "FAQ"
+
+#: captcha-plus.php:1877
+msgid "Support"
+msgstr "Podpora"
+
+#: captcha-plus.php:1903
+#, php-format
+msgid "Try New %s: with Pictures Now!"
+msgstr ""
+
+#: includes/captcha_for_cf7.php:55 includes/captcha_for_cf7.php:57
+#: includes/captcha_for_cf7.php:59
+#, fuzzy
+msgid "BWS CAPTCHA"
+msgstr "Omogoči CAPTCHA:"
+
+#: includes/captcha_for_cf7.php:70 includes/captcha_for_cf7.php:91
+#: includes/captcha_for_cf7.php:114
+msgid "Name"
+msgstr ""
+
+#: includes/captcha_for_cf7.php:76 includes/captcha_for_cf7.php:97
+msgid "Copy this code and paste it into the form left."
+msgstr ""
+
+#: includes/captcha_for_cf7.php:124
+msgid "Insert Tag"
+msgstr ""
+
+#: includes/package_loader.php:27 includes/package_loader.php:140
+msgid ""
+"Can not load images in to the \"uploads\" folder. Please, check your "
+"permissions."
+msgstr ""
+
+#: includes/package_loader.php:39
+msgid "File packages.txt not found. Package not saved."
+msgstr ""
+
+#: includes/package_loader.php:45
+msgid "Can not read data from packages.txt. Packages not saved."
+msgstr ""
+
+#: includes/package_loader.php:168
+msgid "Package successfully loaded."
+msgstr ""
+
+#: includes/whitelist.php:69
+msgid "For IP addresses from the whitelist CAPTCHA will not be displayed"
+msgstr ""
+
+#: includes/whitelist.php:81
+#, php-format
+msgid ""
+"With this option, CAPTCHA will not be displayed for IP-addresses from the "
+"whitelist of %s"
+msgstr ""
+
+#: includes/whitelist.php:92 includes/whitelist.php:128
+msgid "Add IP to whitelist"
+msgstr ""
+
+#: includes/whitelist.php:95
+msgid "Load IP to whitelist"
+msgstr ""
+
+#: includes/whitelist.php:98
+#, php-format
+msgid ""
+"By click on this button, all IP-addresses from the whitelist of %s will be "
+"loaded to the whitelist of %s"
+msgstr ""
+
+#: includes/whitelist.php:107
+#, fuzzy
+msgid "Save changes"
+msgstr "Shrani spremembe"
+
+#: includes/whitelist.php:124
+msgid "My IP"
+msgstr ""
+
+#: includes/whitelist.php:132
+msgid "Allowed formats:"
+msgstr ""
+
+#: includes/whitelist.php:133
+msgid "Allowed diapason:"
+msgstr ""
+
+#: includes/whitelist.php:138
+msgid "Search IP"
+msgstr ""
+
+#: includes/whitelist.php:170
+msgid "Nothing found"
+msgstr ""
+
+#: includes/whitelist.php:170
+msgid "No IP in whitelist"
+msgstr ""
+
+#: includes/whitelist.php:177
+msgid "IP address"
+msgstr ""
+
+#: includes/whitelist.php:178
+msgid "Date added"
+msgstr ""
+
+#: includes/whitelist.php:227 includes/whitelist.php:236
+msgid "Remove from whitelist"
+msgstr ""
+
+#: includes/whitelist.php:309
+msgid "IP added to the whitelist successfully"
+msgstr ""
+
+#: includes/whitelist.php:311 includes/whitelist.php:333
+#: includes/whitelist.php:345
+msgid "Some errors occured"
+msgstr ""
+
+#: includes/whitelist.php:313
+msgid "IP is already in the whitelist"
+msgstr ""
+
+#: includes/whitelist.php:316
+msgid "Invalid IP. See allowed formats"
+msgstr ""
+
+#: includes/whitelist.php:339
+msgid "One IP was deleted successfully"
+msgstr ""
+
+#: includes/whitelist.php:348
+msgid "You have not entered any value"
+msgstr ""
+
+#: includes/whitelist.php:351
+msgid "You have not entered any value in to the search form"
+msgstr ""
+
+#: includes/whitelist.php:353
+msgid "Search results for"
+msgstr ""
+
+#: includes/whitelist.php:367
+msgid "IP-address(es) successfully copied to the whitelist"
+msgstr ""
+
+#: includes/whitelist.php:392
+msgid "use"
+msgstr ""
+
+#: includes/whitelist.php:392
+msgid "whitelist of"
+msgstr ""
+
+#: includes/whitelist.php:400 includes/whitelist.php:408
+#, php-format
+msgid "use whitelist of %s"
+msgstr ""
+
+#: includes/whitelist.php:401
+#, php-format
+msgid "you should %s to use this functionality"
+msgstr ""
+
+#: includes/whitelist.php:409
+#, php-format
+msgid "you should instal %s to use this functionality"
+msgstr ""
+
+#~ msgid "and"
+#~ msgstr "in"
+
+#~ msgid ""
+#~ "The plugin's settings have been changed. In order to save them please "
+#~ "don't forget to click the 'Save Changes' button."
+#~ msgstr ""
+#~ "Nastavitve vtičnika so se spremenile. Da se ne bi izgubile, jih prosim "
+#~ "shranite s pritiskom na gumb 'Shrani spremembe'."
+
+#, fuzzy
+#~ msgid "Download"
+#~ msgstr "Prenos"
+
+#, fuzzy
+#~ msgid "Enable CAPTCHA"
+#~ msgstr "Omogoči CAPTCHA:"
+
+#~ msgid "Title for CAPTCHA in the form"
+#~ msgstr "Naslov za CAPTCHA v obrazcu"
+
+#~ msgid "CAPTCHA complexity level"
+#~ msgstr "CAPTCHA nivo težavnosti"
+
+#~ msgid "Activate contact form"
+#~ msgstr "Aktiviraj kontaktni obrazec"
+
+#, fuzzy
+#~ msgid "Contact Form"
+#~ msgstr "Kontaktni obrazec"
+
+#~ msgid "Download contact form"
+#~ msgstr "Prenesi kontaktni obrazec"
+
+#~ msgid "Register form"
+#~ msgstr "Obrazec za registracijo"
+
+#~ msgid "Lost password form"
+#~ msgstr "Obrazec za izgubljeno geslo"
+
+#~ msgid "requires"
+#~ msgstr "zahteva"
+
+#~ msgid ""
+#~ "or higher, that is why it has been deactivated! Please upgrade WordPress "
+#~ "and try again."
+#~ msgstr ""
+#~ "ali višjo, zato je bil deaktiviran! Prosim nadgradite WordPress in "
+#~ "poizkusite znova."
+
+#~ msgid "Back to the WordPress"
+#~ msgstr "Nazaj na WordPress"
+
+#~ msgid "powered by"
+#~ msgstr "poganja"
+
+#, fuzzy
+#~ msgid "ERROR:"
+#~ msgstr "NAPAKA"

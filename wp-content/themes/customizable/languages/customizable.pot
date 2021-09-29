@@ -1,0 +1,396 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Customizable\n"
+"POT-Creation-Date: 2018-11-06 17:32+0530\n"
+"PO-Revision-Date: 2018-11-06 17:31+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.5\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:12
+msgid "Not Found"
+msgstr ""
+
+#: 404.php:21
+msgid "Page not found: Sorry, the page you are looking for does not Exist"
+msgstr ""
+
+#: archive.php:12
+msgid "Daily Archives"
+msgstr ""
+
+#: archive.php:14
+msgid "Monthly Archives"
+msgstr ""
+
+#: archive.php:16
+msgid "Yearly Archives"
+msgstr ""
+
+#: archive.php:18
+msgid "Archives"
+msgstr ""
+
+#: archive.php:41 author.php:30 category.php:30 index.php:32 search.php:32
+#: tag.php:28
+msgid "READ MORE"
+msgstr ""
+
+#: archive.php:60 author.php:50 category.php:50 index.php:52
+#: page-template/frontpage.php:110 page.php:43 tag.php:49
+msgid "no posts found"
+msgstr ""
+
+#: author.php:10
+msgid "All posts by"
+msgstr ""
+
+#: category.php:10
+msgid "Category Archives"
+msgstr ""
+
+#. translators: 1: comment count number, 2: post title
+#: comments.php:14
+#, php-format
+msgid "%1$s thought on %2$s"
+msgid_plural "%1$s thoughts on %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:24
+msgid "Comments are closed."
+msgstr ""
+
+#. translators: 1: wordpress, 2: Customizable
+#: footer.php:21
+#, php-format
+msgid "Powered by %1$s and %2$s"
+msgstr ""
+
+#: functions.php:27
+msgid "Top primary menu"
+msgstr ""
+
+#: functions.php:28
+msgid "Secondary menu in footer"
+msgstr ""
+
+#. translators: 1: page
+#: functions.php:116
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: functions.php:129
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:142
+msgid "Content Sidebar"
+msgstr ""
+
+#: functions.php:144
+msgid "Additional sidebar that appears on the right."
+msgstr ""
+
+#: functions.php:152
+msgid "Footer area one"
+msgstr ""
+
+#: functions.php:154 functions.php:163 functions.php:172 functions.php:181
+msgid "Appears on footer side"
+msgstr ""
+
+#: functions.php:161
+msgid "Footer area two"
+msgstr ""
+
+#: functions.php:170
+msgid "Footer area three"
+msgstr ""
+
+#: functions.php:179
+msgid "Footer area four"
+msgstr ""
+
+#: functions.php:202
+msgid "Home"
+msgstr ""
+
+#: functions.php:227 functions.php:228
+msgid "Archive for "
+msgstr ""
+
+#: functions.php:229
+msgid "Archive for"
+msgstr ""
+
+#: functions.php:230
+msgid "Author Archive"
+msgstr ""
+
+#: functions.php:231
+msgid "Blog Archives"
+msgstr ""
+
+#: functions.php:232
+msgid "Search Results"
+msgstr ""
+
+#: functions.php:233
+msgid "404"
+msgstr ""
+
+#: functions.php:262
+msgid "Pingback:"
+msgstr ""
+
+#: functions.php:264
+msgid "Edit"
+msgstr ""
+
+#: functions.php:282
+msgid "Post author "
+msgstr ""
+
+#: functions.php:288
+msgid "Reply"
+msgstr ""
+
+#. translators: 1: author name,
+#: functions.php:373
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#. translators: 1: category name, 2: date time, 3: post author
+#: functions.php:381 functions.php:384
+#, php-format
+msgid "Posted in : %1$s  on %3$s by : %4$s "
+msgstr ""
+
+#. translators: 1: date time, 2: author name
+#: functions.php:387
+#, php-format
+msgid "Posted on : %3$s by : %4$s "
+msgstr ""
+
+#: functions.php:422
+msgid "Pro Feature"
+msgstr ""
+
+#: functions.php:422
+msgid "Customizable Pro"
+msgstr ""
+
+#: inc/customizer.php:28
+msgid "General"
+msgstr ""
+
+#: inc/customizer.php:29
+msgid "styling options"
+msgstr ""
+
+#: inc/customizer.php:36 inc/customizer.php:41
+msgid "Header & Logo"
+msgstr ""
+
+#: inc/customizer.php:51 inc/customizer.php:52
+msgid "Front Page Settings"
+msgstr ""
+
+#: inc/customizer.php:60
+msgid "Slider"
+msgstr ""
+
+#: inc/customizer.php:72 inc/customizer.php:127 inc/customizer.php:214
+#: inc/customizer.php:262
+msgid "Please check this box, if you want to hide this section."
+msgstr ""
+
+#: inc/customizer.php:85
+msgid "Upload Slider Image "
+msgstr ""
+
+#: inc/customizer.php:86
+msgid "Image (Recommended Size : 1350px * 539px)"
+msgstr ""
+
+#: inc/customizer.php:105
+msgid "Slide Link"
+msgstr ""
+
+#: inc/customizer.php:115
+msgid "First Section"
+msgstr ""
+
+#: inc/customizer.php:141
+msgid "First Section Title"
+msgstr ""
+
+#: inc/customizer.php:154
+msgid "Upload icon Image "
+msgstr ""
+
+#: inc/customizer.php:155
+msgid "Image (Recommended Size : 50px * 50px)"
+msgstr ""
+
+#: inc/customizer.php:175
+msgid "Section Title"
+msgstr ""
+
+#: inc/customizer.php:177
+msgid "Enter title for your home template."
+msgstr ""
+
+#: inc/customizer.php:192
+msgid "Section Description"
+msgstr ""
+
+#: inc/customizer.php:194
+msgid "Enter description for your home template."
+msgstr ""
+
+#: inc/customizer.php:202
+msgid "Second Section"
+msgstr ""
+
+#: inc/customizer.php:227
+msgid "Recent Post Title"
+msgstr ""
+
+#: inc/customizer.php:243
+msgid "Category"
+msgstr ""
+
+#: inc/customizer.php:250
+msgid "Download Settings"
+msgstr ""
+
+#: inc/customizer.php:275
+msgid "Download Caption"
+msgstr ""
+
+#: inc/customizer.php:287
+msgid "Download Link"
+msgstr ""
+
+#: inc/customizer.php:294 inc/customizer.php:308
+msgid "Home Page Title"
+msgstr ""
+
+#: inc/customizer.php:295
+msgid "Some text regarding default home page title."
+msgstr ""
+
+#: inc/customizer.php:317
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/customizer.php:329
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/customizer.php:330
+msgid ""
+"Some text regarding copyright of your site, you would like to display in the "
+"footer."
+msgstr ""
+
+#: inc/social-custom-widget.php:13
+msgid "customize Social Link"
+msgstr ""
+
+#: inc/social-custom-widget.php:36
+msgid "Widget Title"
+msgstr ""
+
+#: inc/social-custom-widget.php:43
+msgid "Facebook"
+msgstr ""
+
+#: inc/social-custom-widget.php:50
+msgid "Twitter"
+msgstr ""
+
+#: inc/social-custom-widget.php:57
+msgid "Pinterest"
+msgstr ""
+
+#: inc/social-custom-widget.php:64
+msgid "Google+"
+msgstr ""
+
+#: page-template/frontpage.php:100
+msgid "Post By:"
+msgstr ""
+
+#: page-template/frontpage.php:103
+msgid "Comments:"
+msgstr ""
+
+#: page-template/frontpage.php:124
+msgid "Download "
+msgstr ""
+
+#: page-template/full-width.php:41
+msgid "no posts found "
+msgstr ""
+
+#: search.php:11
+msgid "Search Results for"
+msgstr ""
+
+#: search.php:50
+msgid "No Post Found. Please try with some other words."
+msgstr ""
+
+#: single.php:34
+msgid "Pages:"
+msgstr ""
+
+#: tag.php:10
+msgid "Tag Archives"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Customizable"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://fasterthemes.com/wordpress-themes/customizable"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Customizable is a WordPress responsive cooperate theme based on Twitter "
+"bootstrap framework which can be used for personal or corporate websites. "
+"Customizable is a free WordPress theme with premium functionality and "
+"design. Customizable Pro version is a paid version which has several other "
+"options like 6 color schemes, different page templates, more Google Fonts "
+"options etc."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "FasterThemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://fasterthemes.com/"
+msgstr ""

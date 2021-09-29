@@ -1,0 +1,4 @@
+/*!
+ * William DURAND <william.durand1@gmail.com>
+ * MIT Licensed
+ */(function (document, $) {"use strict";var flickrPhotoStream = function ($el, options) {var count = 0;var url = ['//api.flickr.com/services/feeds/photos_public.gne?id=',options.id,'&format=json&jsoncallback=?'].join('');return $.getJSON(url).done(function (data) {$.each(data.items, function (index, item) {var link = item.media.m.replace('_m', '_b');$("<img />").attr("src", item.media.m.replace('_m', '_q')).appendTo($el).wrap(options.container || '').wrap(['<a data-lightbox="true" href="',link,options.cssClass ? '" class="' + options.cssClass : '','" title="',item.title,'"></a>'].join(''));if( ++count == options.max )return false;});});};$.fn.flickrPhotoStream = function (options) {return flickrPhotoStream($(this).get(), options || {});};})(document, jQuery);

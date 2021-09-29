@@ -1,0 +1,2487 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Navian\n"
+"POT-Creation-Date: 2020-08-22 14:33+0700\n"
+"PO-Revision-Date: 2016-07-15 18:19+0700\n"
+"Last-Translator: THEMELOGI <contact@themelogi.com>\n"
+"Language-Team: THEMELOGI <contact@themelogi.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:6
+msgid "404"
+msgstr ""
+
+#: 404.php:7
+msgid "SORRY, WE CAN'T FIND THE PAGE YOU'RE LOOKING FOR."
+msgstr ""
+
+#: 404.php:8
+msgid "Perhaps searching can help."
+msgstr ""
+
+#: archive-portfolio.php:4 taxonomy-portfolio_category.php:4
+msgid "Our portfolio"
+msgstr ""
+
+#: archive.php:4
+msgid "Archives"
+msgstr ""
+
+#: archive.php:10
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: archive.php:12
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: comments.php:9 templates/post/inc-header.php:12
+msgid "0 Comment"
+msgstr ""
+
+#: comments.php:9 templates/post/inc-header.php:12
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:9 templates/post/inc-header.php:12
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:21
+msgid "Name *"
+msgstr ""
+
+#: comments.php:22
+msgid "Email *"
+msgstr ""
+
+#: comments.php:23
+msgid "Website"
+msgstr ""
+
+#: comments.php:25
+msgid "Your Comment Here"
+msgstr ""
+
+#: comments.php:26 inc/menus.php:507
+msgid "Cancel"
+msgstr ""
+
+#: comments.php:29
+msgid "Submit"
+msgstr ""
+
+#: comments.php:33
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:3
+msgid "Back to top of page"
+msgstr ""
+
+#: inc/customizer.php:57 inc/customizer.php:63 inc/filters.php:190
+#: inc/metaboxes.php:18 inc/metaboxes.php:19 inc/metaboxes.php:20
+#: inc/metaboxes.php:21 inc/metaboxes.php:22 inc/metaboxes.php:23
+#: inc/metaboxes.php:24 inc/metaboxes.php:25 inc/metaboxes.php:26
+#: inc/metaboxes.php:27 inc/metaboxes.php:28 visualcomposer/init.php:170
+msgid "(default)"
+msgstr ""
+
+#: inc/customizer.php:58 inc/menus.php:447 inc/metaboxes.php:25
+#: visualcomposer/init.php:105 visualcomposer/init.php:117
+#: visualcomposer/init.php:160 visualcomposer/init.php:183
+#: visualcomposer/init.php:193
+msgid "Yes"
+msgstr ""
+
+#: inc/customizer.php:58 inc/menus.php:448 inc/metaboxes.php:25
+#: visualcomposer/init.php:104 visualcomposer/init.php:116
+#: visualcomposer/init.php:161 visualcomposer/init.php:182
+#: visualcomposer/init.php:192 visualcomposer/init.php:206
+msgid "No"
+msgstr ""
+
+#: inc/customizer.php:59
+msgid "Image"
+msgstr ""
+
+#: inc/customizer.php:59
+msgid "Text"
+msgstr ""
+
+#: inc/customizer.php:60 inc/metaboxes.php:26
+msgid "Uppercase"
+msgstr ""
+
+#: inc/customizer.php:60 inc/metaboxes.php:26
+msgid "Capitalize"
+msgstr ""
+
+#: inc/customizer.php:60 inc/customizer.php:61 inc/customizer.php:62
+#: inc/metaboxes.php:26 inc/metaboxes.php:27 visualcomposer/init.php:95
+msgid "None"
+msgstr ""
+
+#: inc/customizer.php:61 inc/metaboxes.php:27
+msgid "Menu Line"
+msgstr ""
+
+#: inc/customizer.php:61 inc/metaboxes.php:27
+msgid "Menu Line Through"
+msgstr ""
+
+#: inc/customizer.php:61 inc/metaboxes.php:27
+msgid "Menu Background"
+msgstr ""
+
+#: inc/customizer.php:62
+msgid "Line Through"
+msgstr ""
+
+#: inc/customizer.php:62
+msgid "Underline"
+msgstr ""
+
+#: inc/customizer.php:63 inc/metaboxes.php:28 visualcomposer/init.php:78
+msgid "Light"
+msgstr ""
+
+#: inc/customizer.php:63 inc/metaboxes.php:28 visualcomposer/init.php:80
+msgid "Dark"
+msgstr ""
+
+#: inc/customizer.php:64
+msgid "H1"
+msgstr ""
+
+#: inc/customizer.php:64
+msgid "H2"
+msgstr ""
+
+#: inc/customizer.php:64
+msgid "H3"
+msgstr ""
+
+#: inc/customizer.php:64
+msgid "H4"
+msgstr ""
+
+#: inc/customizer.php:64
+msgid "H5"
+msgstr ""
+
+#: inc/customizer.php:64
+msgid "H6"
+msgstr ""
+
+#: inc/customizer.php:69 inc/metaboxes.php:207
+msgid "Site Layout"
+msgstr ""
+
+#: inc/customizer.php:71 inc/metaboxes.php:215
+msgid "Container Layout"
+msgstr ""
+
+#: inc/customizer.php:73
+msgid "Login Logo"
+msgstr ""
+
+#: inc/customizer.php:77
+msgid "Text Color"
+msgstr ""
+
+#: inc/customizer.php:79 inc/metaboxes.php:411 inc/setup.php:48
+msgid "Primary Color"
+msgstr ""
+
+#: inc/customizer.php:81 inc/metaboxes.php:417
+msgid "Primary Gradient Color"
+msgstr ""
+
+#: inc/customizer.php:83
+msgid "Background Dark Color"
+msgstr ""
+
+#: inc/customizer.php:85
+msgid "Background Secondary Color"
+msgstr ""
+
+#: inc/customizer.php:87
+msgid "Submenu Background Color Only"
+msgstr ""
+
+#: inc/customizer.php:89
+msgid "Submenu Color Only"
+msgstr ""
+
+#: inc/customizer.php:91
+msgid "Menu & Submenu Background Color"
+msgstr ""
+
+#: inc/customizer.php:93
+msgid "Menu & Submenu Color"
+msgstr ""
+
+#: inc/customizer.php:95
+msgid "Menu Badge Color"
+msgstr ""
+
+#: inc/customizer.php:97 inc/metaboxes.php:423
+msgid "Footer Background Color"
+msgstr ""
+
+#: inc/customizer.php:99 inc/metaboxes.php:429
+msgid "Footer Color"
+msgstr ""
+
+#: inc/customizer.php:101 inc/metaboxes.php:435
+msgid "Footer Link Color"
+msgstr ""
+
+#: inc/customizer.php:104
+msgid "Fonts"
+msgstr ""
+
+#: inc/customizer.php:106
+msgid "Body Font"
+msgstr ""
+
+#: inc/customizer.php:108
+msgid "Subtitle Font"
+msgstr ""
+
+#: inc/customizer.php:110
+msgid "Heading Font"
+msgstr ""
+
+#: inc/customizer.php:112
+msgid "Button Font"
+msgstr ""
+
+#: inc/customizer.php:114
+msgid "Menu Font"
+msgstr ""
+
+#: inc/customizer.php:116
+msgid "Submenu Font"
+msgstr ""
+
+#: inc/customizer.php:118 inc/metaboxes.php:338
+msgid "Menu Text Transform"
+msgstr ""
+
+#: inc/customizer.php:120
+msgid "Menu Font Size (default: 15px)"
+msgstr ""
+
+#: inc/customizer.php:122 inc/metaboxes.php:345
+msgid "Submenu Text Transform"
+msgstr ""
+
+#: inc/customizer.php:124
+msgid "Submenu Font Size (default: 15px)"
+msgstr ""
+
+#: inc/customizer.php:126
+msgid "Button Text Transform"
+msgstr ""
+
+#: inc/customizer.php:128
+msgid "Header Text Transform"
+msgstr ""
+
+#: inc/customizer.php:130
+msgid "Heading Title Font Size (default: 40px)"
+msgstr ""
+
+#: inc/customizer.php:132
+msgid "Subtitle Font Size (default: 14px)"
+msgstr ""
+
+#: inc/customizer.php:134
+msgid "Widget Title Font Size (default: 20px)"
+msgstr ""
+
+#: inc/customizer.php:136
+msgid "Body Font Size (default: 14px)"
+msgstr ""
+
+#: inc/customizer.php:139
+msgid "Header"
+msgstr ""
+
+#: inc/customizer.php:141
+msgid "Site Logo"
+msgstr ""
+
+#: inc/customizer.php:143
+msgid "Logo Text"
+msgstr ""
+
+#: inc/customizer.php:145
+msgid "Logo"
+msgstr ""
+
+#: inc/customizer.php:147
+msgid "Logo Light"
+msgstr ""
+
+#: inc/customizer.php:149 inc/metaboxes.php:453
+msgid "Enable Retina logo?"
+msgstr ""
+
+#: inc/customizer.php:149
+msgid ""
+"Most of the modern devices nowadays use retina and high definition screens "
+"and you may want to upload 2x sized logo so your logo won't look blurred "
+"on high definition screens. If your current logo is 200 X 50, just upload "
+"400 X 100 (twice the size) in the Retina logo options below."
+msgstr ""
+
+#: inc/customizer.php:151
+msgid "Logo (Retina Version, twice the size)"
+msgstr ""
+
+#: inc/customizer.php:153
+msgid "Logo Light (Retina Version, twice the size)"
+msgstr ""
+
+#: inc/customizer.php:155
+msgid "Menu Height (default: 58px)"
+msgstr ""
+
+#: inc/customizer.php:157 inc/customizer.php:316 inc/metaboxes.php:223
+msgid "Header Layout"
+msgstr ""
+
+#: inc/customizer.php:159 inc/metaboxes.php:312
+msgid "Header Menu Hover Effect"
+msgstr ""
+
+#: inc/customizer.php:161
+msgid "Header Megamenu Divider Color"
+msgstr ""
+
+#: inc/customizer.php:163
+msgid "Boxed Header?"
+msgstr ""
+
+#: inc/customizer.php:165
+msgid "Sticky Header?"
+msgstr ""
+
+#: inc/customizer.php:167
+msgid "Sticky Header on mobile?"
+msgstr ""
+
+#: inc/customizer.php:169
+msgid "Topbar Header on Mobile?"
+msgstr ""
+
+#: inc/customizer.php:171
+msgid "Force to open submenu on Mobile?"
+msgstr ""
+
+#: inc/customizer.php:173
+msgid "Header Megamenu Full Width?"
+msgstr ""
+
+#: inc/customizer.php:175
+msgid "Show Header Search?"
+msgstr ""
+
+#: inc/customizer.php:177
+msgid "Show Header Cart?"
+msgstr ""
+
+#: inc/customizer.php:179
+msgid "Show Header Language? (require WPML plugin)"
+msgstr ""
+
+#: inc/customizer.php:181
+msgid "Show Header Text (Left)?"
+msgstr ""
+
+#: inc/customizer.php:183
+msgid "Header First Text (Left)"
+msgstr ""
+
+#: inc/customizer.php:185
+msgid "Header First Icon "
+msgstr ""
+
+#: inc/customizer.php:187
+msgid "Header Second Text (Left)"
+msgstr ""
+
+#: inc/customizer.php:189
+msgid "Header Second Icon "
+msgstr ""
+
+#: inc/customizer.php:191
+msgid "Header Text (Right)"
+msgstr ""
+
+#: inc/customizer.php:193
+msgid "Header Text Icon "
+msgstr ""
+
+#: inc/customizer.php:195
+msgid "Header Button Title (Center Header Layout)"
+msgstr ""
+
+#: inc/customizer.php:197
+msgid "Header Button URL (Center Header Layout)"
+msgstr ""
+
+#: inc/customizer.php:199
+msgid "Enable separator line (Minimal Header Layout)"
+msgstr ""
+
+#: inc/customizer.php:202
+msgid "Header Social Icon "
+msgstr ""
+
+#: inc/customizer.php:204
+msgid "Header Social URL "
+msgstr ""
+
+#: inc/customizer.php:207
+msgid "Default Page Title Layout"
+msgstr ""
+
+#: inc/customizer.php:209
+msgid "Enable Page Title Overlay Color?"
+msgstr ""
+
+#: inc/customizer.php:211
+msgid "Page Title Overlay Color"
+msgstr ""
+
+#: inc/customizer.php:213
+msgid "Page Title Overlay Gradient"
+msgstr ""
+
+#: inc/customizer.php:215
+msgid "Enable Breadcrumbs?"
+msgstr ""
+
+#: inc/customizer.php:217
+msgid "Enable Category in Breadcrumbs?"
+msgstr ""
+
+#: inc/customizer.php:219
+msgid "Page Title Height (default: 400px)"
+msgstr ""
+
+#: inc/customizer.php:221
+msgid "Header Page Title Heading"
+msgstr ""
+
+#: inc/customizer.php:224
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer.php:226 inc/metaboxes.php:231
+msgid "Footer Layout"
+msgstr ""
+
+#: inc/customizer.php:228
+msgid "Enable Footer Menu?"
+msgstr ""
+
+#: inc/customizer.php:230
+msgid "Enable Footer Copyright?"
+msgstr ""
+
+#: inc/customizer.php:232
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: inc/customizer.php:235
+msgid "Footer Social Icon "
+msgstr ""
+
+#: inc/customizer.php:237
+msgid "Footer Social URL "
+msgstr ""
+
+#: inc/customizer.php:241 searchform.php:3
+msgid "Search"
+msgstr ""
+
+#: inc/customizer.php:243 inc/customizer.php:256 inc/customizer.php:289
+#: inc/customizer.php:314
+msgid "Archives Layout"
+msgstr ""
+
+#: inc/customizer.php:245
+msgid "Search Title Layout"
+msgstr ""
+
+#: inc/customizer.php:247
+msgid "Search Header Background"
+msgstr ""
+
+#: inc/customizer.php:249
+msgid "Enable Search Navigation?"
+msgstr ""
+
+#: inc/customizer.php:252
+msgid "Blog"
+msgstr ""
+
+#: inc/customizer.php:254
+msgid "Single Layout"
+msgstr ""
+
+#: inc/customizer.php:258
+msgid "Blog Title Layout"
+msgstr ""
+
+#: inc/customizer.php:259 inc/helpers.php:770 inc/helpers.php:773 index.php:4
+#: single.php:5
+msgid "Our Blog"
+msgstr ""
+
+#: inc/customizer.php:260
+msgid "Blog Title"
+msgstr ""
+
+#: inc/customizer.php:262
+msgid "Blog Subtitle"
+msgstr ""
+
+#: inc/customizer.php:264
+msgid "Blog Lead Title"
+msgstr ""
+
+#: inc/customizer.php:266
+msgid "Blog Header Background"
+msgstr ""
+
+#: inc/customizer.php:268
+msgid "Show header post information?"
+msgstr ""
+
+#: inc/customizer.php:270
+msgid "Show feature image on single post?"
+msgstr ""
+
+#: inc/customizer.php:272 inc/customizer.php:303 inc/customizer.php:328
+msgid "Enable Single Pagination?"
+msgstr ""
+
+#: inc/customizer.php:274
+msgid "Enable Author Info?"
+msgstr ""
+
+#: inc/customizer.php:276
+msgid "Enable Related Posts"
+msgstr ""
+
+#: inc/customizer.php:278
+msgid "Enable Post Comment?"
+msgstr ""
+
+#: inc/customizer.php:280
+msgid "Number of words in Grid blog"
+msgstr ""
+
+#: inc/customizer.php:282
+msgid "Number of words in Standard blog"
+msgstr ""
+
+#: inc/customizer.php:285 inc/helpers.php:745
+msgid "Portfolio"
+msgstr ""
+
+#: inc/customizer.php:285
+msgid ""
+"* When you make change on 'Portfolio URL slug', please make sure to "
+"refresh the permalinks by going to <a target=\"_blank\" href=\"options-"
+"permalink.php\">Settings > Permalinks</a> and click on the 'Save Changes' "
+"button. Otherwise, the change will do not work properly."
+msgstr ""
+
+#: inc/customizer.php:287
+msgid "* Portfolio URL slug"
+msgstr ""
+
+#: inc/customizer.php:291
+msgid "Portfolio Title Layout"
+msgstr ""
+
+#: inc/customizer.php:292 single-portfolio.php:5
+msgid "Our Portfolio"
+msgstr ""
+
+#: inc/customizer.php:293
+msgid "Portfolio Title"
+msgstr ""
+
+#: inc/customizer.php:295
+msgid "Portfolio Subtitle"
+msgstr ""
+
+#: inc/customizer.php:297
+msgid "Portfolio Lead Title"
+msgstr ""
+
+#: inc/customizer.php:299
+msgid "Portfolio Header Background"
+msgstr ""
+
+#: inc/customizer.php:301
+msgid "Enable Next/Previous Projects?"
+msgstr ""
+
+#: inc/customizer.php:305 inc/metaboxes.php:59
+msgid "Enable portfolio gallery lightbox?"
+msgstr ""
+
+#: inc/customizer.php:307
+msgid "Portfolio Filter Effect"
+msgstr ""
+
+#: inc/customizer.php:310 inc/helpers.php:752 inc/helpers.php:754
+msgid "Shop"
+msgstr ""
+
+#: inc/customizer.php:312
+msgid "Number of Products per Page"
+msgstr ""
+
+#: inc/customizer.php:316
+msgid "(default layout)"
+msgstr ""
+
+#: inc/customizer.php:318
+msgid "Shop Title Layout"
+msgstr ""
+
+#: inc/customizer.php:319
+msgid "Our Shop"
+msgstr ""
+
+#: inc/customizer.php:320
+msgid "Shop Title"
+msgstr ""
+
+#: inc/customizer.php:322
+msgid "Shop Subtitle"
+msgstr ""
+
+#: inc/customizer.php:324
+msgid "Shop Lead Title"
+msgstr ""
+
+#: inc/customizer.php:326
+msgid "Shop Header Background"
+msgstr ""
+
+#: inc/customizer.php:330
+msgid "Shop Selected Menu"
+msgstr ""
+
+#: inc/customizer.php:333
+msgid "System"
+msgstr ""
+
+#: inc/customizer.php:335
+msgid "Google Maps API key"
+msgstr ""
+
+#: inc/customizer.php:335
+msgid ""
+"As per Google announcement, usage of the Google Maps now requires a key. "
+"Please have a look at the <a target=\"_blank\" href=\"https://developers."
+"google.com/maps/documentation/embed/get-api-key\">Google Maps APIs "
+"documentation</a> to get a key and add it to the field below."
+msgstr ""
+
+#: inc/customizer.php:337
+msgid "Instagram Access Token"
+msgstr ""
+
+#: inc/customizer.php:337
+msgid ""
+"Due to recent changes in the Instagram API – you'll need to provide Access "
+"Token in order to show Instagram photos on your site. Please have a look "
+"at <a href=\"http://www.themelogi.com/how-to-get-instagram-access-token/\" "
+"target=\"_blank\">Instagram Access Token documentation</a> to retrieve an "
+"access token."
+msgstr ""
+
+#: inc/customizer.php:339
+msgid "Custom Google Font"
+msgstr ""
+
+#: inc/customizer.php:339
+msgid ""
+"Please have a look at <a target=\"_blank\" href=\"http://www.themelogi.com/"
+"tickets/topic/faq/#custom_google_font\">our FAQs page</a> for more details "
+"about adding custom Google fonts."
+msgstr ""
+
+#: inc/customizer.php:341
+msgid "Custom Icons Font Classes (separated by commas)"
+msgstr ""
+
+#: inc/customizer.php:343
+msgid "Enable Preloader?"
+msgstr ""
+
+#: inc/customizer.php:345
+msgid "Enable Portfolio Comment?"
+msgstr ""
+
+#: inc/customizer.php:347
+msgid "Enable Page Comment?"
+msgstr ""
+
+#: inc/customizer.php:349
+msgid "Enable Portfolio?"
+msgstr ""
+
+#: inc/customizer.php:351
+msgid "Enable Team Members?"
+msgstr ""
+
+#: inc/customizer.php:353
+msgid "Enable Clients?"
+msgstr ""
+
+#: inc/customizer.php:355
+msgid "Enable Testimonials?"
+msgstr ""
+
+#: inc/customizer.php:357
+msgid "Enable Like feature?"
+msgstr ""
+
+#: inc/customizer.php:359
+msgid "Enable Share feature?"
+msgstr ""
+
+#: inc/customizer.php:361
+msgid "Enable Scroll To Top button?"
+msgstr ""
+
+#: inc/customizer.php:363
+msgid "Enable Scroll To Top on mobile?"
+msgstr ""
+
+#: inc/customizer.php:365
+msgid "Exclude Pages from Search Results?"
+msgstr ""
+
+#: inc/customizer.php:367
+msgid "Auto activate WPBakery Page Builder for Page?"
+msgstr ""
+
+#: inc/customizer.php:369
+msgid "Auto activate WPBakery Page Builder for Post?"
+msgstr ""
+
+#: inc/customizer.php:371
+msgid "Auto activate WPBakery Page Builder for Portfolio?"
+msgstr ""
+
+#: inc/customizer.php:373
+msgid "Auto activate WPBakery Page Builder for Product?"
+msgstr ""
+
+#: inc/customizer.php:375
+msgid "Enable WPBakery Page Builder Default Shortcode?"
+msgstr ""
+
+#: inc/customizer.php:377
+msgid "Enable WPBakery Page Builder Default Templates?"
+msgstr ""
+
+#: inc/customizer.php:379
+msgid "Enable WooCommerce Default Shortcode?"
+msgstr ""
+
+#: inc/filters.php:67
+msgid "..."
+msgstr ""
+
+#: inc/filters.php:188
+msgid "Layout"
+msgstr ""
+
+#: inc/filters.php:191
+msgid "Slider"
+msgstr ""
+
+#: inc/filters.php:192
+msgid "Slider Featured (Stretch Row layout)"
+msgstr ""
+
+#: inc/filters.php:193
+msgid "Slider Thumbnail"
+msgstr ""
+
+#: inc/filters.php:194
+msgid "Lightbox Grid"
+msgstr ""
+
+#: inc/filters.php:195
+msgid "Lightbox Grid Fullwidth"
+msgstr ""
+
+#: inc/filters.php:196
+msgid "Lightbox Masonry"
+msgstr ""
+
+#: inc/filters.php:197
+msgid "Lightbox Masonry PhotoSwipe"
+msgstr ""
+
+#: inc/filters.php:198
+msgid "Full Width"
+msgstr ""
+
+#: inc/filters.php:199
+msgid "Autoplay"
+msgstr ""
+
+#: inc/helpers.php:16
+msgid "TLG Framework"
+msgstr ""
+
+#: inc/helpers.php:25
+msgid "WPBakery Page Builder (formerly Visual Composer)"
+msgstr ""
+
+#: inc/helpers.php:34
+msgid "Revolution Slider"
+msgstr ""
+
+#: inc/helpers.php:43
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/helpers.php:50
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/helpers.php:265
+msgid "Show all categories"
+msgstr ""
+
+#: inc/helpers.php:331
+msgid "All"
+msgstr ""
+
+#: inc/helpers.php:711
+msgid "comments"
+msgstr ""
+
+#: inc/helpers.php:711
+msgid "comment"
+msgstr ""
+
+#: inc/helpers.php:739
+msgid "Home"
+msgstr ""
+
+#: inc/helpers.php:749
+msgid "Team"
+msgstr ""
+
+#: inc/helpers.php:818
+msgid "Previous"
+msgstr ""
+
+#: inc/helpers.php:826
+msgid "Next"
+msgstr ""
+
+#: inc/helpers.php:852 inc/helpers.php:883
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/importer/init.php:8 inc/importer/init.php:9
+msgid "Install Demo"
+msgstr ""
+
+#: inc/importer/init.php:45
+msgid "Import completed!"
+msgstr ""
+
+#: inc/importer/init.php:46
+msgid "Visit Site."
+msgstr ""
+
+#: inc/importer/init.php:48 inc/importer/init.php:65
+#: inc/importer/init.php:125
+msgid "NOTES:"
+msgstr ""
+
+#: inc/importer/init.php:50
+msgid ""
+"If the One-Click Import did not work for any reason, please refer to the "
+"<a href=\"http://www.themelogi.com/docs/navian/#!/demo_import\" target="
+"\"_blank\">Theme Documentation</a> so you can install the Demo Content "
+"manually or check <a href=\"http://www.themelogi.com/docs/navian/#!/"
+"common_issue\">common Import issues</a>."
+msgstr ""
+
+#: inc/importer/init.php:51
+msgid ""
+"In case of any missing data, you can try to re-install demo content via "
+"<strong>Advanced demo content import</strong>."
+msgstr ""
+
+#: inc/importer/init.php:63
+msgid "Install demo content"
+msgstr ""
+
+#: inc/importer/init.php:67
+msgid ""
+"Please click on the Import button only once and wait, it can take few "
+"minutes. Please be patient and DO NOT close the browser or navigate away. "
+"The import procedure can take up to 15mins on slow servers and you will "
+"see the messages when the import is done."
+msgstr ""
+
+#: inc/importer/init.php:68
+msgid ""
+"It's always recommended to run the import on a clean installtion of "
+"WordPress."
+msgstr ""
+
+#: inc/importer/init.php:69
+msgid ""
+"Make sure you've installed all the required plugins before running the "
+"Importer."
+msgstr ""
+
+#: inc/importer/init.php:70
+msgid ""
+"No existing posts, pages, categories, images, custom post types or any "
+"other data will be deleted or modified."
+msgstr ""
+
+#: inc/importer/init.php:71
+msgid ""
+"The images in demos are copyrighted which are not included in the theme "
+"package. Simply replace these images with your own."
+msgstr ""
+
+#: inc/importer/init.php:72
+msgid ""
+"If the One-Click Import did not work for any reason (it is normally due to "
+"host performances), you can install the Demo Content manually as described "
+"in the Theme Documentation."
+msgstr ""
+
+#: inc/importer/init.php:75 inc/importer/init.php:117
+msgid "Import"
+msgstr ""
+
+#: inc/importer/init.php:77
+msgid ""
+"In case the One-Click Import did not work or any other missing data, you "
+"can try to re-install demo content using <strong><a href=\"#\" class="
+"\"advanded_import_btn\">Advanced demo content import</a></strong> or have "
+"a look at our <strong><a href=\"http://www.themelogi.com/tickets/topic/faq/"
+"\" target=\"_blank\">FAQs page</a></strong> for the solution."
+msgstr ""
+
+#: inc/importer/init.php:81
+msgid ""
+"The XML file containing the dummy content is not available or could not be "
+"read..."
+msgstr ""
+
+#: inc/importer/init.php:88
+msgid "Advanced demo content import"
+msgstr ""
+
+#: inc/importer/init.php:90
+msgid ""
+"If you have any problems with the importing, please refer to the <a href="
+"\"http://www.themelogi.com/docs/navian/#!/common_issue\" target=\"_blank"
+"\">Common Issues with Importing Data</a> for the solutions."
+msgstr ""
+
+#: inc/importer/init.php:95
+msgid "Import Demo Content Only"
+msgstr ""
+
+#: inc/importer/init.php:97
+msgid "Back to Quick demo content import"
+msgstr ""
+
+#: inc/importer/init.php:105
+msgid "Import Widgets"
+msgstr ""
+
+#: inc/importer/init.php:111
+msgid "Import Revolution Sliders"
+msgstr ""
+
+#: inc/importer/init.php:123
+msgid "Importing Demo Content..."
+msgstr ""
+
+#: inc/importer/init.php:127
+msgid ""
+"Please be patient and DO NOT close the browser or navigate away. The "
+"import procedure can take up to 15mins on slow servers and you will see "
+"the messages when the import is done."
+msgstr ""
+
+#: inc/importer/init.php:128
+msgid ""
+"If you haven't had a notification in 20mins, use the fallback method in "
+"the Theme Documentation."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/lib/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/lib/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/lib/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/lib/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/lib/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural ""
+"The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/lib/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/lib/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/lib/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/lib/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:393
+#: inc/lib/class-tgm-plugin-activation.php:912
+#: inc/lib/class-tgm-plugin-activation.php:2618
+#: inc/lib/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:394
+#: inc/lib/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:395
+#: inc/lib/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/lib/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update "
+"or activate."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:1019
+#: inc/lib/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files "
+"are not packaged in a folder."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:1206
+#: inc/lib/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take "
+"a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on "
+"some hosts, so please be patient."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/menus.php:16
+msgid "Primary Navigation"
+msgstr ""
+
+#: inc/menus.php:17
+msgid "Footer Navigation"
+msgstr ""
+
+#: inc/menus.php:18
+msgid "Search Navigation"
+msgstr ""
+
+#: inc/menus.php:230
+msgid "Set up a navigation now"
+msgstr ""
+
+#: inc/menus.php:320
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: inc/menus.php:324
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: inc/menus.php:337
+msgid "sub item"
+msgstr ""
+
+#: inc/menus.php:349
+msgid "Move up"
+msgstr ""
+
+#: inc/menus.php:359
+msgid "Move down"
+msgstr ""
+
+#: inc/menus.php:361
+msgid "Edit Menu Item"
+msgstr ""
+
+#: inc/menus.php:363
+msgid "Edit"
+msgstr ""
+
+#: inc/menus.php:372
+msgid "URL"
+msgstr ""
+
+#: inc/menus.php:379
+msgid "Navigation Label"
+msgstr ""
+
+#: inc/menus.php:385
+msgid "Title Attribute"
+msgstr ""
+
+#: inc/menus.php:392
+msgid "Subtitle"
+msgstr ""
+
+#: inc/menus.php:405
+msgid "Menu Image Preview (Save Menu to update)"
+msgstr ""
+
+#: inc/menus.php:408
+msgid "Menu Image Id"
+msgstr ""
+
+#: inc/menus.php:417
+msgid "Icon"
+msgstr ""
+
+#: inc/menus.php:431
+msgid "Please activate the TLG FrameWork plugin to use icon in menu."
+msgstr ""
+
+#: inc/menus.php:440
+msgid "Enable Mega Menu?"
+msgstr ""
+
+#: inc/menus.php:456
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: inc/menus.php:461
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: inc/menus.php:467
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: inc/menus.php:473
+msgid "Description"
+msgstr ""
+
+#: inc/menus.php:475
+msgid ""
+"The description will be displayed in the menu if the current theme "
+"supports it."
+msgstr ""
+
+#: inc/menus.php:481
+msgid "Move"
+msgstr ""
+
+#: inc/menus.php:482
+msgid "Up one"
+msgstr ""
+
+#: inc/menus.php:483
+msgid "Down one"
+msgstr ""
+
+#: inc/menus.php:486
+msgid "To the top"
+msgstr ""
+
+#: inc/menus.php:493
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: inc/menus.php:506
+msgid "Remove"
+msgstr ""
+
+#: inc/metaboxes.php:33
+msgid "Single Sidebar Settings"
+msgstr ""
+
+#: inc/metaboxes.php:40
+msgid "Single Sidebar Layout"
+msgstr ""
+
+#: inc/metaboxes.php:41
+msgid ""
+"Default Single Sidebar Layout is set in: Appearance > Customize > Blog"
+msgstr ""
+
+#: inc/metaboxes.php:52
+msgid "Portfolio Settings"
+msgstr ""
+
+#: inc/metaboxes.php:60
+msgid "Default setting is set in: Appearance > Customize > Portfolio"
+msgstr ""
+
+#: inc/metaboxes.php:65
+msgid "Link Portfolio Item to External URL"
+msgstr ""
+
+#: inc/metaboxes.php:66
+msgid "Enter a external URL for this project."
+msgstr ""
+
+#: inc/metaboxes.php:71
+msgid "Open External URL in New Window"
+msgstr ""
+
+#: inc/metaboxes.php:72 inc/metaboxes.php:101
+msgid "Check this option to open external URL in new window."
+msgstr ""
+
+#: inc/metaboxes.php:77
+msgid "Add Nofollow for External URL"
+msgstr ""
+
+#: inc/metaboxes.php:78 inc/metaboxes.php:107
+msgid "Check this option to add rel=nofollow in external URL."
+msgstr ""
+
+#: inc/metaboxes.php:87
+msgid "Client Settings"
+msgstr ""
+
+#: inc/metaboxes.php:94
+msgid "Client URL"
+msgstr ""
+
+#: inc/metaboxes.php:95
+msgid "Enter a URL for this client."
+msgstr ""
+
+#: inc/metaboxes.php:100
+msgid "Open Client URL in New Window"
+msgstr ""
+
+#: inc/metaboxes.php:106
+msgid "Add Nofollow for Client URL"
+msgstr ""
+
+#: inc/metaboxes.php:116
+msgid "Team Member Settings"
+msgstr ""
+
+#: inc/metaboxes.php:123
+msgid "Member description"
+msgstr ""
+
+#: inc/metaboxes.php:124
+msgid "Member description for this person."
+msgstr ""
+
+#: inc/metaboxes.php:130
+msgid "Member position"
+msgstr ""
+
+#: inc/metaboxes.php:131
+msgid "Member position for this person."
+msgstr ""
+
+#: inc/metaboxes.php:139
+msgid "Add Icon"
+msgstr ""
+
+#: inc/metaboxes.php:140
+msgid "Remove Icon"
+msgstr ""
+
+#: inc/metaboxes.php:145
+msgid "Social Icon"
+msgstr ""
+
+#: inc/metaboxes.php:146
+msgid "Leave text field blank for no icon."
+msgstr ""
+
+#: inc/metaboxes.php:152
+msgid "Social URL"
+msgstr ""
+
+#: inc/metaboxes.php:153
+msgid "Enter the URL for Social Icon."
+msgstr ""
+
+#: inc/metaboxes.php:160
+msgid "Member URL (optional)"
+msgstr ""
+
+#: inc/metaboxes.php:161
+msgid "Enter a URL for this member."
+msgstr ""
+
+#: inc/metaboxes.php:170
+msgid "Testimonial Settings"
+msgstr ""
+
+#: inc/metaboxes.php:177
+msgid "Testimonial Content"
+msgstr ""
+
+#: inc/metaboxes.php:178
+msgid "Enter the testimonial content."
+msgstr ""
+
+#: inc/metaboxes.php:184
+msgid "Author Info"
+msgstr ""
+
+#: inc/metaboxes.php:185
+msgid "Enter author infomation for this testimonial."
+msgstr ""
+
+#: inc/metaboxes.php:190
+msgid "Author URL (optional)"
+msgstr ""
+
+#: inc/metaboxes.php:191
+msgid "Enter a URL for this author."
+msgstr ""
+
+#: inc/metaboxes.php:200
+msgid "Page Layout"
+msgstr ""
+
+#: inc/metaboxes.php:208
+msgid "Default Site Layout is set in: Appearance > Customize > Site Identity"
+msgstr ""
+
+#: inc/metaboxes.php:216
+msgid ""
+"Default Container Layout is set in: Appearance > Customize > Site Identity"
+msgstr ""
+
+#: inc/metaboxes.php:224
+msgid "Default Header Layout is set in: Appearance > Customize > Header"
+msgstr ""
+
+#: inc/metaboxes.php:232
+msgid "Default Footer Layout is set in: Appearance > Customize > Footer"
+msgstr ""
+
+#: inc/metaboxes.php:242
+msgid "Default Page Title"
+msgstr ""
+
+#: inc/metaboxes.php:249
+msgid "Page Title Layout"
+msgstr ""
+
+#: inc/metaboxes.php:250
+msgid ""
+"Default setting is set in: Appearance > Customize > Header. "
+"<br><strong>Note:</strong> If you are using Slider or Single Header "
+"element in your page builder, please set this \"Page Title Layout\" option "
+"to \"No Title\" to remove the default title. Otherwise, if you want to "
+"display the page title with background image, please choose \"Background\" "
+"or \"Parallax\" option."
+msgstr ""
+
+#: inc/metaboxes.php:256
+msgid "Page Title"
+msgstr ""
+
+#: inc/metaboxes.php:257
+msgid ""
+"Enter a title for this page (optional). This will overwrite the default "
+"title."
+msgstr ""
+
+#: inc/metaboxes.php:262
+msgid "Page Title Sub-title"
+msgstr ""
+
+#: inc/metaboxes.php:263
+msgid "Enter a sub-title for this page (optional)."
+msgstr ""
+
+#: inc/metaboxes.php:268
+msgid "Page Title Lead-title"
+msgstr ""
+
+#: inc/metaboxes.php:269
+msgid "Enter a lead-title for this page (optional)."
+msgstr ""
+
+#: inc/metaboxes.php:274
+msgid "Page Title Background Type"
+msgstr ""
+
+#: inc/metaboxes.php:275
+msgid ""
+"Select a background image type for page title Background or Parallax "
+"layouts."
+msgstr ""
+
+#: inc/metaboxes.php:278
+msgid "Featured Image"
+msgstr ""
+
+#: inc/metaboxes.php:278 inc/metaboxes.php:281
+msgid "Custom Background Image"
+msgstr ""
+
+#: inc/metaboxes.php:282
+msgid "Select image pattern for stunning header background."
+msgstr ""
+
+#: inc/metaboxes.php:287
+msgid "Hide Breadcrumbs?"
+msgstr ""
+
+#: inc/metaboxes.php:288 inc/metaboxes.php:353 inc/metaboxes.php:359
+#: inc/metaboxes.php:365 inc/metaboxes.php:371 inc/metaboxes.php:377
+msgid "Default setting is set in: Appearance > Customize > Header"
+msgstr ""
+
+#: inc/metaboxes.php:297
+msgid "Menu Settings"
+msgstr ""
+
+#: inc/metaboxes.php:304
+msgid "Selected Menu"
+msgstr ""
+
+#: inc/metaboxes.php:305
+msgid "Default Selected Menu is the menu in primary location."
+msgstr ""
+
+#: inc/metaboxes.php:313
+msgid "Default Menu Hover Effect is set in: Appearance > Customize > Header"
+msgstr ""
+
+#: inc/metaboxes.php:319
+msgid "Header Megamenu Divider"
+msgstr ""
+
+#: inc/metaboxes.php:320
+msgid ""
+"Default Header Megamenu Divider is set in: Appearance > Customize > Header"
+msgstr ""
+
+#: inc/metaboxes.php:326
+msgid "Submenu Background Color"
+msgstr ""
+
+#: inc/metaboxes.php:327
+msgid ""
+"Default Submenu Background Color is set in: Appearance > Customize > Colors"
+msgstr ""
+
+#: inc/metaboxes.php:332
+msgid "Submenu Color"
+msgstr ""
+
+#: inc/metaboxes.php:333
+msgid "Default Submenu Color is set in: Appearance > Customize > Colors"
+msgstr ""
+
+#: inc/metaboxes.php:339 inc/metaboxes.php:346
+msgid "Default value is set in: Appearance > Customize > Fonts"
+msgstr ""
+
+#: inc/metaboxes.php:352
+msgid "Enable Boxed Header?"
+msgstr ""
+
+#: inc/metaboxes.php:358
+msgid "Hide Header Cart Icon?"
+msgstr ""
+
+#: inc/metaboxes.php:364
+msgid "Hide Header Search Icon?"
+msgstr ""
+
+#: inc/metaboxes.php:370
+msgid "Hide Header Language Icon?"
+msgstr ""
+
+#: inc/metaboxes.php:376
+msgid "Hide Header Text Left?"
+msgstr ""
+
+#: inc/metaboxes.php:382
+msgid "Header Button Title"
+msgstr ""
+
+#: inc/metaboxes.php:383
+msgid "Enter a Title for this button (for Center Header Layout only)."
+msgstr ""
+
+#: inc/metaboxes.php:388
+msgid "Header Button URL"
+msgstr ""
+
+#: inc/metaboxes.php:389
+msgid "Enter a URL for this button (for Center Header Layout only)."
+msgstr ""
+
+#: inc/metaboxes.php:394
+msgid "Hide Footer Menu?"
+msgstr ""
+
+#: inc/metaboxes.php:395
+msgid "Default setting is set in: Appearance > Customize > Footer"
+msgstr ""
+
+#: inc/metaboxes.php:404
+msgid "Colors &amp; Logo Settings"
+msgstr ""
+
+#: inc/metaboxes.php:412
+msgid "Default Primary Color is set in: Appearance > Customize > Colors"
+msgstr ""
+
+#: inc/metaboxes.php:418
+msgid ""
+"Default Primary Gradient Color is set in: Appearance > Customize > Colors"
+msgstr ""
+
+#: inc/metaboxes.php:424
+msgid ""
+"Default Footer Background Color is set in: Appearance > Customize > Colors"
+msgstr ""
+
+#: inc/metaboxes.php:430
+msgid "Default Footer Color is set in: Appearance > Customize > Colors"
+msgstr ""
+
+#: inc/metaboxes.php:436
+msgid "Default Footer Link Color is set in: Appearance > Customize > Colors"
+msgstr ""
+
+#: inc/metaboxes.php:441
+msgid "Logo Image"
+msgstr ""
+
+#: inc/metaboxes.php:442
+msgid "Default logo is set in: Appearance > Customize > Header"
+msgstr ""
+
+#: inc/metaboxes.php:447
+msgid "Logo Image Light"
+msgstr ""
+
+#: inc/metaboxes.php:448
+msgid "Default light logo is set in: Appearance > Customize > Header"
+msgstr ""
+
+#: inc/metaboxes.php:454
+msgid "Default value is set in: Appearance > Customize > Header"
+msgstr ""
+
+#: inc/metaboxes.php:460
+msgid "Logo Image (Retina Version)"
+msgstr ""
+
+#: inc/metaboxes.php:461
+msgid "Default retina logo is set in: Appearance > Customize > Header"
+msgstr ""
+
+#: inc/metaboxes.php:466
+msgid "Logo Image Light (Retina Version)"
+msgstr ""
+
+#: inc/metaboxes.php:467
+msgid "Default retina light logo is set in: Appearance > Customize > Header"
+msgstr ""
+
+#: inc/scripts.php:18
+msgctxt "Body font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/scripts.php:21
+msgctxt "Heading font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/scripts.php:24
+msgctxt "Subtitle font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/scripts.php:27
+msgctxt "Menu font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/scripts.php:30
+msgctxt "Button font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/scripts.php:33
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/setup.php:49
+msgid "primary-color"
+msgstr ""
+
+#: inc/setup.php:53
+msgid "Dark Color"
+msgstr ""
+
+#: inc/setup.php:54
+msgid "dark-color"
+msgstr ""
+
+#: inc/sidebars.php:14
+msgid "Blog Sidebar"
+msgstr ""
+
+#: inc/sidebars.php:15
+msgid "Widget appears in the Blog sidebar."
+msgstr ""
+
+#: inc/sidebars.php:25
+msgid "Page Sidebar"
+msgstr ""
+
+#: inc/sidebars.php:26
+msgid "Widget appears in the Sidebar page template."
+msgstr ""
+
+#: inc/sidebars.php:36
+msgid "Shop Sidebar"
+msgstr ""
+
+#: inc/sidebars.php:37
+msgid "Widget appears in the Shop sidebar."
+msgstr ""
+
+#: inc/sidebars.php:47
+msgid "Footer Column 1"
+msgstr ""
+
+#: inc/sidebars.php:48
+msgid "Widget appears in the Footer column 1"
+msgstr ""
+
+#: inc/sidebars.php:58
+msgid "Footer Column 2"
+msgstr ""
+
+#: inc/sidebars.php:59
+msgid "Widget appears in the Footer column 2."
+msgstr ""
+
+#: inc/sidebars.php:69
+msgid "Footer Column 3"
+msgstr ""
+
+#: inc/sidebars.php:70
+msgid "Widget appears in the Footer column 3."
+msgstr ""
+
+#: inc/sidebars.php:80
+msgid "Footer Column 4"
+msgstr ""
+
+#: inc/sidebars.php:81
+msgid "Widget appears in the Footer column 4."
+msgstr ""
+
+#: search.php:11
+msgid "Results for: "
+msgstr ""
+
+#: search.php:11 woocommerce.php:46
+msgid "Empty"
+msgstr ""
+
+#: search.php:12
+msgid " item"
+msgstr ""
+
+#: search.php:12
+msgid " items"
+msgstr ""
+
+#: search.php:12
+msgid " found "
+msgstr ""
+
+#: searchform.php:2
+msgid "Search..."
+msgstr ""
+
+#: searchform.php:4
+msgid "Type and hit enter to search"
+msgstr ""
+
+#: templates/footer/inc-lightbox.php:8
+msgid "Close (Esc)"
+msgstr ""
+
+#: templates/footer/inc-lightbox.php:9
+msgid "Share"
+msgstr ""
+
+#: templates/footer/inc-lightbox.php:10
+msgid "Toggle fullscreen"
+msgstr ""
+
+#: templates/footer/inc-lightbox.php:11
+msgid "Zoom in/out"
+msgstr ""
+
+#: templates/footer/inc-lightbox.php:15
+msgid "Previous (arrow left)"
+msgstr ""
+
+#: templates/footer/inc-lightbox.php:16
+msgid "Next (arrow right)"
+msgstr ""
+
+#: templates/header/inc-cart.php:6
+msgid "Shopping Cart"
+msgstr ""
+
+#: templates/header/inc-search.php:4
+msgid "Search Site"
+msgstr ""
+
+#: templates/portfolio/inc-parallax-full.php:12
+#: templates/portfolio/inc-parallax.php:16
+msgid "See Project"
+msgstr ""
+
+#: templates/post/content-none.php:1
+msgid ""
+"Sorry, but nothing matched your search. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: templates/post/content-search.php:15 templates/post/content.php:53
+#: templates/post/inc-content-boxed-masonry.php:38
+#: templates/post/inc-content-boxed.php:38 templates/post/inc-feed.php:43
+msgid "Read more"
+msgstr ""
+
+#: templates/post/content.php:2
+#: templates/post/inc-content-boxed-masonry.php:2
+#: templates/post/inc-content-boxed.php:2 templates/post/inc-feed.php:2
+#: templates/post/inc-header.php:1
+msgid "Featured"
+msgstr ""
+
+#: templates/post/content.php:19
+#: templates/post/inc-content-boxed-masonry.php:19
+#: templates/post/inc-content-boxed.php:19
+msgid "post-image"
+msgstr ""
+
+#: templates/post/content.php:70
+#: templates/post/inc-content-boxed-masonry.php:52
+#: templates/post/inc-content-boxed.php:52 templates/post/inc-feed.php:48
+msgid "0"
+msgstr ""
+
+#: templates/post/content.php:70
+#: templates/post/inc-content-boxed-masonry.php:52
+#: templates/post/inc-content-boxed.php:52 templates/post/inc-feed.php:48
+msgid "1"
+msgstr ""
+
+#: templates/post/content.php:70
+#: templates/post/inc-content-boxed-masonry.php:52
+#: templates/post/inc-content-boxed.php:52 templates/post/inc-feed.php:48
+msgid "%"
+msgstr ""
+
+#: templates/post/inc-feed.php:23
+msgid " - "
+msgstr ""
+
+#: templates/post/inc-header-single.php:11
+msgid "Website:"
+msgstr ""
+
+#: templates/post/inc-related.php:32
+msgid "Related Articles"
+msgstr ""
+
+#: templates/post/inc-single.php:18
+msgid "Tags"
+msgstr ""
+
+#: visualcomposer/init.php:27
+msgid "Blog category"
+msgstr ""
+
+#: visualcomposer/init.php:33
+msgid "Portfolio category"
+msgstr ""
+
+#: visualcomposer/init.php:39
+msgid "Client category"
+msgstr ""
+
+#: visualcomposer/init.php:45
+msgid "Testimonial category"
+msgstr ""
+
+#: visualcomposer/init.php:51
+msgid "Team category"
+msgstr ""
+
+#: visualcomposer/init.php:57
+msgid "Shop category"
+msgstr ""
+
+#: visualcomposer/init.php:63
+msgid "Container setting"
+msgstr ""
+
+#: visualcomposer/init.php:66 visualcomposer/init.php:90
+#: visualcomposer/init.php:151
+msgid "Standard"
+msgstr ""
+
+#: visualcomposer/init.php:67
+msgid "Extra Large"
+msgstr ""
+
+#: visualcomposer/init.php:68 visualcomposer/init.php:91
+msgid "Large"
+msgstr ""
+
+#: visualcomposer/init.php:69 visualcomposer/init.php:92
+msgid "Small"
+msgstr ""
+
+#: visualcomposer/init.php:71
+msgid "Select a container option for this row."
+msgstr ""
+
+#: visualcomposer/init.php:75
+msgid "Row background color preset"
+msgstr ""
+
+#: visualcomposer/init.php:79
+msgid "Gray"
+msgstr ""
+
+#: visualcomposer/init.php:81
+msgid "Highlight"
+msgstr ""
+
+#: visualcomposer/init.php:83
+msgid "Select a preset background for this row."
+msgstr ""
+
+#: visualcomposer/init.php:87
+msgid "Row padding"
+msgstr ""
+
+#: visualcomposer/init.php:93
+msgid "No Top"
+msgstr ""
+
+#: visualcomposer/init.php:94
+msgid "No Bottom"
+msgstr ""
+
+#: visualcomposer/init.php:97
+msgid "Select a padding option for this row."
+msgstr ""
+
+#: visualcomposer/init.php:101
+msgid "Enable light color?"
+msgstr ""
+
+#: visualcomposer/init.php:107
+msgid "Enable light color for this row."
+msgstr ""
+
+#: visualcomposer/init.php:111
+msgid "Enable custom background overlay?"
+msgstr ""
+
+#: visualcomposer/init.php:119
+msgid "Customize overlay background color."
+msgstr ""
+
+#: visualcomposer/init.php:123
+msgid "Row overlay background color"
+msgstr ""
+
+#: visualcomposer/init.php:126
+msgid "Select your overlay color. Leave empty to use default overlay color."
+msgstr ""
+
+#: visualcomposer/init.php:130
+msgid "Row overlay value"
+msgstr ""
+
+#: visualcomposer/init.php:136
+msgid ""
+"Enter a number from 0 to 10. Leave empty to use the default overlay value."
+msgstr ""
+
+#: visualcomposer/init.php:140
+msgid "Row gradient background color"
+msgstr ""
+
+#: visualcomposer/init.php:143
+msgid "To use combine with row overlay background color."
+msgstr ""
+
+#: visualcomposer/init.php:147
+msgid "Row gradient background type"
+msgstr ""
+
+#: visualcomposer/init.php:152
+msgid "Rotate"
+msgstr ""
+
+#: visualcomposer/init.php:157
+msgid "Enable parallax?"
+msgstr ""
+
+#: visualcomposer/init.php:163
+msgid "Enable parallax effect for this row (background image only)."
+msgstr ""
+
+#: visualcomposer/init.php:167
+msgid "Row text alignment?"
+msgstr ""
+
+#: visualcomposer/init.php:171
+msgid "Center"
+msgstr ""
+
+#: visualcomposer/init.php:172
+msgid "Left"
+msgstr ""
+
+#: visualcomposer/init.php:173
+msgid "Right"
+msgstr ""
+
+#: visualcomposer/init.php:175
+msgid "Center alignment for this row."
+msgstr ""
+
+#: visualcomposer/init.php:179
+msgid "Row vertically middle alignment?"
+msgstr ""
+
+#: visualcomposer/init.php:185
+msgid "Middle alignment for this row."
+msgstr ""
+
+#: visualcomposer/init.php:189
+msgid "Row equal height?"
+msgstr ""
+
+#: visualcomposer/init.php:195
+msgid "Enable equal columns for this row."
+msgstr ""
+
+#: visualcomposer/init.php:199
+msgid "Row background video style"
+msgstr ""
+
+#: visualcomposer/init.php:200
+msgid ""
+"Select the kind of video background would you like to set for this row. "
+"<br>If you use background video here, please select also a background "
+"image (in \"Design Options\"), which will be displayed in case background "
+"video are restricted (fallback for mobile devices)."
+msgstr ""
+
+#: visualcomposer/init.php:201 visualcomposer/init.php:214
+#: visualcomposer/init.php:223 visualcomposer/init.php:234
+msgid "Background Video Options"
+msgstr ""
+
+#: visualcomposer/init.php:207
+msgid "YouTube video"
+msgstr ""
+
+#: visualcomposer/init.php:208
+msgid "Hosted video"
+msgstr ""
+
+#: visualcomposer/init.php:213
+msgid "Link to the video in MP4 format"
+msgstr ""
+
+#: visualcomposer/init.php:222
+msgid "Link to the video in WebM / Ogg format"
+msgstr ""
+
+#: visualcomposer/init.php:227
+msgid ""
+"To display a video using HTML5, which works in the newest versions of all "
+"major browsers, you can serve your video in both WebM format and MPEG "
+"H.264 AAC format. You can upload the video through your Media Library."
+msgstr ""
+
+#: visualcomposer/init.php:232
+msgid "Enter YouTube video ID"
+msgstr ""
+
+#: visualcomposer/init.php:233
+msgid ""
+"Eg: https://www.youtube.com/watch?v=lMJXxhRFO1k <br>Enter the video ID: "
+"\"lMJXxhRFO1k\""
+msgstr ""
+
+#: woocommerce.php:31
+msgid "Our shop"
+msgstr ""
+
+#: woocommerce.php:46
+msgid "Search Results for: "
+msgstr ""
+
+#: woocommerce.php:47
+msgid "Found "
+msgstr ""
+
+#: woocommerce.php:47
+msgid " Item"
+msgstr ""
+
+#: woocommerce.php:47
+msgid " Items"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Navian"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://www.themelogi.com/themes/navian"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Navian - Responsive Multi-Purpose WordPress Theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "THEMELOGI"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.themelogi.com"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Sidebar Left Template"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Sidebar Right Template"
+msgstr ""

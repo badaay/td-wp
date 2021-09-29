@@ -1,0 +1,42 @@
+'GTS Preloader' is a WordPress plugin that enable a nice loading effect while your site or page is in loading mode.
+
+You can manage settings for this plugin from 'Admin Dashboard --> GTS Preloader'
+
+Options:
+
+1. Preloader Status
+
+   Status of preloader. Default is 'On'. You can switch preloader off from this option.
+   
+2. Select Animation Icon
+
+   From this option you can select a loading icon for your site/page.
+   
+3. Upload a Custom Loading Icon
+
+   You can upload and set your own page loading icon from this option. To generate your own icon you can visit website 
+   like: http://preloaders.net/
+   
+4. Page Background Color
+
+   Page background color while your site is in loading mode. Default color is #000 (Black). You can pick your own color
+   as loading page background color.
+   
+5. Page Background Color Opacity
+
+   Opacity of page background color while your site is in loading mode. 
+   Default opacity value is 0.8 (80% of your page background color). You can set your own value here. 
+   1 means 100%, 0.5 means 50% opacity.
+   
+6. Loading Label Status
+
+   Status of your loading label. If you keep this feature 'On', then label like 'Loading...' or something set by you 
+   will show when your page is loading.
+   
+7. Loading Label Text
+
+   Text for 'Loading' label. Default is 'Loading'. You can type your own status label.
+   
+8. Loading Label Text Color
+
+   Text color for loading label. Default is '#FFF' (White). You can choose your own color.

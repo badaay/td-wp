@@ -1,0 +1,1 @@
+<?php // This is a blank header.

@@ -1,0 +1,74 @@
+Version 1.0
+
+	i)   Theme Submitted for approval
+	
+Version 2.0
+
+	i)  Added custom home page 
+	ii) Changes in style.css
+
+Version 2.0.1
+
+	i)   Set front-page.php as per template hierarchy
+
+Version 2.0.2
+
+	i)   Home page setting issue fixed
+
+Version 2.0.3
+
+	i)   Settings issue fixed.
+
+Version 2.0.4
+
+	i)   Set State all licenses, Copyrights and details for all bundled resources.
+
+Version 2.0.5
+	
+	i) Some change editor-style.css 
+	ii) Change FT Options logo and remove space in Faster Themes.
+	iii) Set copy right text in footer.
+	iv) Delete useless image in images folder.
+	v) Remove colorpicker code in fasterthemes file.
+	
+Version 2.0.6
+	
+	i) Set TGM for pagination.
+	ii) Change copyright text condition.
+	iii) Change theme author uri in style.css.
+	
+Version 2.1
+
+	 i) Define TGM license in readme.txt
+	 ii) Replace esc_url_raw with esc_url. 
+	 iii) Change Theme Options layout.
+	 iv) Remove ABSPATH.
+
+Version 2.1.1
+    i) Fixed JS error which was appearing in admin panel. 
+ 	ii) Removed screen_icon() found in the file class-tgm-plugin-activation.php as it's deprecated. 
+
+Version 2.1.2 (29th Nov 2014)
+    i) Modified code to make theme translation ready.
+
+Version 2.1.3 (12th Dec 2014)
+    i) Fixed CSS issue.
+
+Version 2.2 (31st Dec 2016)
+    i) Fixed Misc Issues.
+
+Version 2.2.1 (20-03-2017)
+    i) pro-featured image change.
+
+Version 2.2.2 (20-03-2017)
+    i) Changed feature image.
+
+Version 2.2.3 (24-04-2018)
+    i) Minor changes
+    ii) TGM code removed.
+
+Version 2.3.0 (6-11-2018)
+    i) Minor changes
+
+Version 2.3.1 (17-05-2020)
+    i) Misc changes

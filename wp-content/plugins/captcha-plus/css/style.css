@@ -1,0 +1,155 @@
+/*
+* styles for settings page
+*/
+.cptchpls_example_fields_actions {
+    min-height: 18px;
+    width: 140px;
+    position: relative;
+}
+.cptchpls_example_fields_actions img {
+    position: relative;
+    max-width: 30px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.cptchpls_block {
+	direction: ltr;
+}
+input.cptchpls_settings_input {
+    width: 252px;
+}
+.cptchpls_how_to_use {
+    float: right;
+}
+.cptchpls_limit_label {
+    display: block;
+}
+.cptchpls_whitelist_buttons .alignleft {
+    margin-right: 10px;
+}
+#cptchpls_add_my_ip {
+    display: inline-block;
+    padding: 8px 0 5px;
+}
+/*
+ * RTL styles
+ */
+.rtl .cptchpls_how_to_use {
+    float: left;
+}
+.rtl .cptchpls_block {
+    direction: rtl;
+}
+
+/*
+* frontend styles
+*/
+.cptchpls_block label {
+    word-wrap: break-word;
+}
+.cptchpls_label:hover {
+    cursor: pointer;
+}
+form input.cptchpls_input {
+    padding-left: 8px;
+    padding-right: 8px;
+}
+.cptchpls_whitelist_message {
+    font-style: italic;
+    color: #008000;
+    font-weight: normal !important;
+}
+.cptchpls_block {
+    display: block !important;
+    width: 100%;
+    max-width: 100%;
+    box-sizing: border-box;
+    word-spacing: normal !important;
+}
+.cptchpls_title {
+    display: block;
+    word-wrap: break-word;
+    padding-bottom: 5px;
+    clear: both;
+}
+.cptchpls_wrap {
+    display: table-row !important;
+    position: relative;
+    clear: both;
+}
+.cptchpls_label,
+.cptchpls_reload_button_wrap {
+    display: table-cell;
+    margin: 5px 0 !important;
+    vertical-align: middle;
+    line-height: 1;
+}
+.cptchpls_span {
+    display: inline-block;
+    vertical-align: middle;
+    line-height: 1;
+}
+.cptchpls_img {
+    width: 40px;
+    max-width: 40px !important;
+    height: auto;
+    top: 0;
+    z-index: 2;
+}
+.cptchpls_reload_button {
+    width: 2rem;
+    height: 2rem;
+    font-size: 2rem;
+    margin: 0 15px;
+    vertical-align: text-bottom; 
+}
+.cptchpls_reload_button:before {
+    vertical-align: text-bottom;
+}
+
+@media only screen and ( max-width: 782px ) {
+    #cptchpls_whitelist_search p.search-box {
+        position: static;
+    }
+    #cptchpls_whitelist .tablenav.top {
+        display: none;
+    }
+    .cptchpls_reload_button {
+        width: 48px;
+        height: 48px;
+        font-size: 48px;
+    }
+    .cptchpls_how_to_use {
+        float: none;
+        text-align: left;
+    }
+    #cptchpls_add_my_ip {
+          padding: 10px 0 7px;
+    }
+    .rtl .cptchpls_how_to_use {
+        text-align: right;
+    }
+}
+
+@media only screen and ( max-width: 480px ) {
+    .bws_help_box.cptchpls_thumb_block {
+        display: none;
+    }
+    #cptchpls_whitelist .bulkactions {
+        float: none;
+    }
+    #cptchpls_whitelist .tablenav-pages {
+        display: inline-block;
+        float: none;
+        clear: both;
+    }
+    #cptchpls_whitelist .tablenav-pages .displaying-num {
+        position: static;
+    }
+    .cptchpls_reload_button {
+        margin: 0;
+    }
+    #cptchpls_whitelist .column-add_time {
+        display: none;
+    }
+}

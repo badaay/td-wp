@@ -1,0 +1,39 @@
+/**
+ * Theme admin CSS
+ */
+.cmb2-textarea-code{height:60px}
+.cmb2-wrap input.cmb2-text-small { display: block; margin-bottom: 8px; }
+.cmb-repeatable-grouping {background: #fff;}
+.gallery-settings h3:last-of-type{clear:both;padding-top:20px}
+.btn.disabled {cursor: not-allowed;pointer-events: none;opacity: 0.65;filter: alpha(opacity=65);-webkit-box-shadow: none;box-shadow: none;}
+input[type="range"] {width: 75%;float: left;}
+input[type="range"] + input[type="text"] {float: right;width: 22%;color: #333;}
+#side-sortables .cmb-th label:after,.inner-sidebar .cmb-th label:after{border:none;padding:0}
+#side-sortables .cmb-th label,.inner-sidebar .cmb-th label,#side-sortables .cmb2-wrap>.cmb-field-list>.cmb-row:last-child,.inner-sidebar .cmb2-wrap>.cmb-field-list>.cmb-row:last-child{padding-bottom:0;margin-bottom:0}
+.tlg_number { height: auto!important; }
+.wpb_element_wrapper .wpb_vc_param_value.tlg_number{display: none;}
+.tlg-icons-wrapper{position:relative;margin-bottom:15px;overflow: hidden;margin-top: 8px;display:block;}
+.edit_form_line .tlg-icons-wrapper{max-height: 210px;overflow-y: auto;overflow-x: hidden;}
+.tlg-icons-wrapper .none{display: none!important;}
+.tlg-icons{display: block;}
+.tlg-icons i{ margin:0 8px 8px 0!important;cursor:pointer!important; color: #777; display: inline-block!important; float: none!important; width: auto!important; font-size: 23px!important; font-weight: normal!important; padding: 5px!important; border: 1px solid #eee!important;height: auto!important;line-height: 23px!important;}
+.tlg-icons i.active{color: #fff; border-color: #49c5b6!important; background-color: #49c5b6;}
+.tlg-icons i.fa {font: normal normal normal 14px/1 FontAwesome;}
+.field-tlg-icon, .field-tlg-image{margin-bottom: 8px;}
+.tlg-menu-image {width: 80px;}
+.slide-tlg-icon{position: relative; overflow: hidden; clear: both; max-height: 0;transition: max-height .3s;-webkit-transition: max-height .3s}
+.slide-tlg-icon.active{max-height: 2000px;}
+.field-tlg-megamenu, .field-tlg-hidetitle, .field-tlg-button, .field-tlg-image{display: none;}
+.field-tlg-subtitle, .menu-item-depth-1 .field-tlg-image{display: block;float: none;clear: both;}
+.menu-item-depth-0 .field-tlg-megamenu, .menu-item-depth-0 .field-tlg-hidetitle, .menu-item-depth-0 .field-tlg-button{display: block;float: none;clear: both;}
+.menu-item-depth-0 .field-tlg-subtitle{display: none;}
+.admin-thumb{height: 60px;}
+.textarea_raw_html{height: 36px; resize: none;}
+.vc_license-activation-notice,.rs-update-notice-wrap{display:none!important}
+div.wpb_vc_param_value.content.textarea_html{clear:both;padding-top:5px}
+.wpb_vc_raw_html{overflow: hidden;}
+.block-editor-page #wpb_visual_composer {display: none!important;}
+.vc_default-templates .vc_templates-image{background-size:cover!important;background-position:center top!important}
+.vc_default-templates .vc_template > .wpb_wrapper:hover .wpb_single_image > .wpb_wrapper > div{background-position:center bottom!important;opacity:.6}
+.tlg-importer .tlg-importer-note {font-size: 16px; font-weight: 600;}
+.woocommerce-page [class*="tlg_framework_post_thumb"]{display: none!important;}

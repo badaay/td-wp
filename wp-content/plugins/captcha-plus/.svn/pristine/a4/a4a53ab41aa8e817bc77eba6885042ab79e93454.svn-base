@@ -1,0 +1,1008 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: captcha-plus\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-03-11 10:57+0300\n"
+"PO-Revision-Date: 2016-03-11 10:57+0300\n"
+"Last-Translator: BestWebSoft team <wp@bestwebsoft.com>\n"
+"Language-Team: Arnas <arnas.metal@gmail.com>\n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: captcha-plus.php:17 captcha-plus.php:427
+#, fuzzy
+msgid "Captcha Plus Settings"
+msgstr "CAPTCHA nustatymai"
+
+#: captcha-plus.php:169
+#, fuzzy
+msgid "Please enter a CAPTCHA value."
+msgstr "Prašome įvesti saugos kodą."
+
+#: captcha-plus.php:170
+#, fuzzy
+msgid "Please enter a valid CAPTCHA value."
+msgstr "Prašome įvesti saugos kodą."
+
+#: captcha-plus.php:171
+#, fuzzy
+msgid "Time limit is exhausted. Please enter CAPTCHA value again."
+msgstr "Prašome įvesti saugos kodą."
+
+#: captcha-plus.php:178
+msgid "You are in the white list"
+msgstr ""
+
+#: captcha-plus.php:308
+msgid "Login form"
+msgstr "Prisijungimo forma"
+
+#: captcha-plus.php:309
+#, fuzzy
+msgid "Registration form"
+msgstr "Registravimosi forma"
+
+#: captcha-plus.php:310
+#, fuzzy
+msgid "Reset Password form"
+msgstr "Pamesto slaptažodžio forma"
+
+#: captcha-plus.php:311
+msgid "Comments form"
+msgstr "Komentarų forma"
+
+#: captcha-plus.php:314
+#, fuzzy
+msgid "in Comments form for registered users"
+msgstr "Nerodyti CAPTCHA užsiregistravusiems vartotojams"
+
+#: captcha-plus.php:319
+msgid "Plus (&#43;)"
+msgstr "Plius (&#43;)"
+
+#: captcha-plus.php:319
+msgid "Plus"
+msgstr "Plius (&#43;)"
+
+#: captcha-plus.php:320
+msgid "Minus (&minus;)"
+msgstr "Minus (&minus;)"
+
+#: captcha-plus.php:320
+msgid "Minus"
+msgstr "Minus (&minus;)"
+
+#: captcha-plus.php:321
+#, fuzzy
+msgid "Multiplication (&times;)"
+msgstr "Padauginti (&times;)"
+
+#: captcha-plus.php:321
+#, fuzzy
+msgid "Multiply"
+msgstr "Padauginti (&times;)"
+
+#: captcha-plus.php:326
+msgid "Numbers"
+msgstr "Skaičiai"
+
+#: captcha-plus.php:327
+msgid "Words"
+msgstr "Žodžiai"
+
+#: captcha-plus.php:328
+msgid "Images"
+msgstr ""
+
+#: captcha-plus.php:374
+#, fuzzy
+msgid ""
+"Please select one item in the block Arithmetic and Complexity for CAPTCHA"
+msgstr ""
+"Prašome pasirinkti bent vieną iš aritmetinių veiksmų ir jų sunkumo lygį "
+"saugos kodui nustatyti"
+
+#: captcha-plus.php:380
+#, fuzzy
+msgid "Please select one item in the block Enable image packages"
+msgstr ""
+"Prašome pasirinkti bent vieną iš aritmetinių veiksmų ir jų sunkumo lygį "
+"saugos kodui nustatyti"
+
+#: captcha-plus.php:411
+#, fuzzy
+msgid "Settings saved."
+msgstr "Nustatymai pakeisti sėkmingai."
+
+#: captcha-plus.php:423
+msgid "All plugin settings were restored."
+msgstr ""
+
+#: captcha-plus.php:429
+msgid "How to Use Step-by-step Instruction"
+msgstr ""
+
+#: captcha-plus.php:432
+msgid "Basic"
+msgstr ""
+
+#: captcha-plus.php:433
+msgid "Advanced"
+msgstr ""
+
+#: captcha-plus.php:434
+msgid "Whitelist"
+msgstr ""
+
+#: captcha-plus.php:435
+msgid "Custom code"
+msgstr ""
+
+#: captcha-plus.php:438
+msgid "Notice:"
+msgstr ""
+
+#: captcha-plus.php:438
+msgid ""
+"Option to display captcha for Contact Form 7 is enabled. For correct work, "
+"please, dont forget to add the BWS CAPTCHA block to Contact Form 7 to the "
+"needed form (see"
+msgstr ""
+
+#: captcha-plus.php:451 captcha-plus.php:454
+#, fuzzy
+msgid "Enable CAPTCHA for"
+msgstr "Aktyvuoti CAPTCHA:"
+
+#: captcha-plus.php:455
+msgid "WordPress default"
+msgstr ""
+
+#: captcha-plus.php:461
+msgid "This option is available only for main blog"
+msgstr ""
+
+#: captcha-plus.php:478
+#, fuzzy
+msgid "Plugins"
+msgstr "BWS Plugins"
+
+#: captcha-plus.php:485 captcha-plus.php:491 captcha-plus.php:510
+#: captcha-plus.php:519 captcha-plus.php:525
+msgid "You should"
+msgstr ""
+
+#: captcha-plus.php:485 captcha-plus.php:519 includes/whitelist.php:401
+msgid "activate"
+msgstr ""
+
+#: captcha-plus.php:485 captcha-plus.php:519
+msgid "for network"
+msgstr ""
+
+#: captcha-plus.php:485 captcha-plus.php:493 captcha-plus.php:519
+#: captcha-plus.php:525
+msgid "to use this functionality"
+msgstr ""
+
+#: captcha-plus.php:492 captcha-plus.php:525
+#, fuzzy
+msgid "download"
+msgstr "Parsisiųsti"
+
+#: captcha-plus.php:510
+msgid "update"
+msgstr ""
+
+#: captcha-plus.php:510
+msgid "at least up to v3.4 to use this functionality"
+msgstr ""
+
+#: captcha-plus.php:536
+#, fuzzy
+msgid "If you would like to add Captcha to a custom form, please see"
+msgstr ""
+"Jeigu norite prisidėti prie šio plugin'o, prašome susisiekti su mumis adresu "
+"<a href=\"Mailto:plugin@bestwebsoft.com\">plugin@bestwebsoft.com</a> arba "
+"užpildykite konktaktinę formą mūsų internetiniame puslapyje."
+
+#: captcha-plus.php:541
+#, fuzzy
+msgid "Hide CAPTCHA"
+msgstr "Aktyvuoti CAPTCHA:"
+
+#: captcha-plus.php:548
+msgid "Title"
+msgstr ""
+
+#: captcha-plus.php:552
+msgid "Required symbol"
+msgstr ""
+
+#: captcha-plus.php:558
+msgid "Show \"Reload\" button"
+msgstr ""
+
+#: captcha-plus.php:564 captcha-plus.php:567
+#, fuzzy
+msgid "Arithmetic actions"
+msgstr "CAPTCHA aritmetiniai veiksmai"
+
+#: captcha-plus.php:579 captcha-plus.php:582
+msgid "Complexity"
+msgstr ""
+
+#: captcha-plus.php:597
+msgid "Enable image packages"
+msgstr ""
+
+#: captcha-plus.php:607
+msgid "Enlarge images on mouseover"
+msgstr ""
+
+#: captcha-plus.php:614
+msgid "Enable time limit"
+msgstr ""
+
+#: captcha-plus.php:620
+msgid "Set time limit"
+msgstr ""
+
+#: captcha-plus.php:623
+msgid "seconds"
+msgstr ""
+
+#: captcha-plus.php:629
+msgid "Notification messages"
+msgstr ""
+
+#: captcha-plus.php:631 captcha-plus.php:912 captcha-plus.php:918
+msgid "Error"
+msgstr ""
+
+#: captcha-plus.php:632
+#, fuzzy
+msgid "If CAPTCHA field is empty"
+msgstr "Saugos kodas įvestas neteisingai."
+
+#: captcha-plus.php:633
+#, fuzzy
+msgid "If CAPTCHA is incorrect"
+msgstr "Saugos kodas įvestas neteisingai."
+
+#: captcha-plus.php:634
+msgid "If time limit is exhausted"
+msgstr ""
+
+#: captcha-plus.php:635
+msgid "Info"
+msgstr ""
+
+#: captcha-plus.php:636
+msgid ""
+"If the user IP is added to the whitelist (this message will be displayed "
+"instead of CAPTCHA)."
+msgstr ""
+
+#: captcha-plus.php:643
+msgid "Save Changes"
+msgstr "Išsaugoti pakeitimus"
+
+#: captcha-plus.php:766 captcha-plus.php:772 captcha-plus.php:787
+#: captcha-plus.php:789 captcha-plus.php:798 captcha-plus.php:977
+#: captcha-plus.php:985 captcha-plus.php:1031 captcha-plus.php:1035
+#: captcha-plus.php:1044 captcha-plus.php:1067 captcha-plus.php:1077
+#: captcha-plus.php:1095 captcha-plus.php:1098 captcha-plus.php:1106
+msgid "ERROR"
+msgstr "KLAIDA"
+
+#: captcha-plus.php:912 captcha-plus.php:918
+#, fuzzy
+msgid "Click the BACK button on your browser, and try again."
+msgstr ""
+"Klaida: Jūs neteisingai įvedėte saugos kodą! Prašome bandyti dar kartą."
+
+#: captcha-plus.php:1321
+msgid "zero"
+msgstr "nulis"
+
+#: captcha-plus.php:1322 captcha-plus.php:1792
+msgid "one"
+msgstr "vienas"
+
+#: captcha-plus.php:1323
+msgid "two"
+msgstr "du "
+
+#: captcha-plus.php:1324
+msgid "three"
+msgstr "trys"
+
+#: captcha-plus.php:1325
+msgid "four"
+msgstr "keturi"
+
+#: captcha-plus.php:1326
+msgid "five"
+msgstr "penki"
+
+#: captcha-plus.php:1327 captcha-plus.php:1792
+msgid "six"
+msgstr "šeši"
+
+#: captcha-plus.php:1328 captcha-plus.php:1780 captcha-plus.php:1786
+msgid "seven"
+msgstr "septyni"
+
+#: captcha-plus.php:1329 captcha-plus.php:1783
+msgid "eight"
+msgstr "aštuoni"
+
+#: captcha-plus.php:1330
+msgid "nine"
+msgstr "devyni"
+
+#: captcha-plus.php:1332
+msgid "ten"
+msgstr "dešimt"
+
+#: captcha-plus.php:1333
+msgid "eleven"
+msgstr "vienuolika"
+
+#: captcha-plus.php:1334
+msgid "twelve"
+msgstr "dvylika"
+
+#: captcha-plus.php:1335
+msgid "thirteen"
+msgstr "trylika"
+
+#: captcha-plus.php:1336
+msgid "fourteen"
+msgstr "keturiolika"
+
+#: captcha-plus.php:1337
+msgid "fifteen"
+msgstr "penkiolika"
+
+#: captcha-plus.php:1338
+msgid "sixteen"
+msgstr "šešiolika"
+
+#: captcha-plus.php:1339
+msgid "seventeen"
+msgstr "septyniolika"
+
+#: captcha-plus.php:1340
+msgid "eighteen"
+msgstr "aštuoniolika"
+
+#: captcha-plus.php:1341
+msgid "nineteen"
+msgstr "devyniolika"
+
+#: captcha-plus.php:1343
+msgid "twenty"
+msgstr "dvidešimt"
+
+#: captcha-plus.php:1344
+#, fuzzy
+msgid "twenty one"
+msgstr "dvidešimt"
+
+#: captcha-plus.php:1345
+#, fuzzy
+msgid "twenty two"
+msgstr "dvidešimt"
+
+#: captcha-plus.php:1346
+#, fuzzy
+msgid "twenty three"
+msgstr "dvidešimt"
+
+#: captcha-plus.php:1347
+#, fuzzy
+msgid "twenty four"
+msgstr "dvidešimt"
+
+#: captcha-plus.php:1348
+#, fuzzy
+msgid "twenty five"
+msgstr "dvidešimt"
+
+#: captcha-plus.php:1349
+#, fuzzy
+msgid "twenty six"
+msgstr "dvidešimt"
+
+#: captcha-plus.php:1350
+#, fuzzy
+msgid "twenty seven"
+msgstr "dvidešimt"
+
+#: captcha-plus.php:1351
+#, fuzzy
+msgid "twenty eight"
+msgstr "dvidešimt"
+
+#: captcha-plus.php:1352
+#, fuzzy
+msgid "twenty nine"
+msgstr "dvidešimt"
+
+#: captcha-plus.php:1354
+msgid "thirty"
+msgstr "trisdešimt"
+
+#: captcha-plus.php:1355
+#, fuzzy
+msgid "thirty one"
+msgstr "trisdešimt"
+
+#: captcha-plus.php:1356
+#, fuzzy
+msgid "thirty two"
+msgstr "trisdešimt"
+
+#: captcha-plus.php:1357
+#, fuzzy
+msgid "thirty three"
+msgstr "trylika"
+
+#: captcha-plus.php:1358
+#, fuzzy
+msgid "thirty four"
+msgstr "trisdešimt"
+
+#: captcha-plus.php:1359
+#, fuzzy
+msgid "thirty five"
+msgstr "trisdešimt"
+
+#: captcha-plus.php:1360
+#, fuzzy
+msgid "thirty six"
+msgstr "trisdešimt"
+
+#: captcha-plus.php:1361
+#, fuzzy
+msgid "thirty seven"
+msgstr "trylika"
+
+#: captcha-plus.php:1362
+#, fuzzy
+msgid "thirty eight"
+msgstr "trisdešimt"
+
+#: captcha-plus.php:1363
+#, fuzzy
+msgid "thirty nine"
+msgstr "trisdešimt"
+
+#: captcha-plus.php:1365
+msgid "forty"
+msgstr "keturiasdešimt"
+
+#: captcha-plus.php:1366
+#, fuzzy
+msgid "forty one"
+msgstr "keturiasdešimt"
+
+#: captcha-plus.php:1367
+#, fuzzy
+msgid "forty two"
+msgstr "keturiasdešimt"
+
+#: captcha-plus.php:1368
+#, fuzzy
+msgid "forty three"
+msgstr "trys"
+
+#: captcha-plus.php:1369
+#, fuzzy
+msgid "forty four"
+msgstr "keturiasdešimt"
+
+#: captcha-plus.php:1370
+#, fuzzy
+msgid "forty five"
+msgstr "keturiasdešimt"
+
+#: captcha-plus.php:1371
+#, fuzzy
+msgid "forty six"
+msgstr "keturiasdešimt"
+
+#: captcha-plus.php:1372
+#, fuzzy
+msgid "forty seven"
+msgstr "septyni"
+
+#: captcha-plus.php:1373
+#, fuzzy
+msgid "forty eight"
+msgstr "aštuoni"
+
+#: captcha-plus.php:1374
+#, fuzzy
+msgid "forty nine"
+msgstr "keturiasdešimt"
+
+#: captcha-plus.php:1376
+msgid "fifty"
+msgstr "pekiasdešimt"
+
+#: captcha-plus.php:1377
+#, fuzzy
+msgid "fifty one"
+msgstr "pekiasdešimt"
+
+#: captcha-plus.php:1378
+#, fuzzy
+msgid "fifty two"
+msgstr "pekiasdešimt"
+
+#: captcha-plus.php:1379
+#, fuzzy
+msgid "fifty three"
+msgstr "penkiolika"
+
+#: captcha-plus.php:1380
+#, fuzzy
+msgid "fifty four"
+msgstr "pekiasdešimt"
+
+#: captcha-plus.php:1381
+#, fuzzy
+msgid "fifty five"
+msgstr "pekiasdešimt"
+
+#: captcha-plus.php:1382
+#, fuzzy
+msgid "fifty six"
+msgstr "pekiasdešimt"
+
+#: captcha-plus.php:1383
+#, fuzzy
+msgid "fifty seven"
+msgstr "penkiolika"
+
+#: captcha-plus.php:1384
+#, fuzzy
+msgid "fifty eight"
+msgstr "aštuoni"
+
+#: captcha-plus.php:1385
+#, fuzzy
+msgid "fifty nine"
+msgstr "pekiasdešimt"
+
+#: captcha-plus.php:1387
+msgid "sixty"
+msgstr "šešiasdešimt"
+
+#: captcha-plus.php:1388
+#, fuzzy
+msgid "sixty one"
+msgstr "šešiasdešimt"
+
+#: captcha-plus.php:1389
+#, fuzzy
+msgid "sixty two"
+msgstr "šešiasdešimt"
+
+#: captcha-plus.php:1390
+#, fuzzy
+msgid "sixty three"
+msgstr "šešiolika"
+
+#: captcha-plus.php:1391
+#, fuzzy
+msgid "sixty four"
+msgstr "šešiasdešimt"
+
+#: captcha-plus.php:1392
+#, fuzzy
+msgid "sixty five"
+msgstr "šešiasdešimt"
+
+#: captcha-plus.php:1393
+#, fuzzy
+msgid "sixty six"
+msgstr "šešiasdešimt"
+
+#: captcha-plus.php:1394
+#, fuzzy
+msgid "sixty seven"
+msgstr "šešiolika"
+
+#: captcha-plus.php:1395
+#, fuzzy
+msgid "sixty eight"
+msgstr "aštuoni"
+
+#: captcha-plus.php:1396
+#, fuzzy
+msgid "sixty nine"
+msgstr "šešiasdešimt"
+
+#: captcha-plus.php:1398
+msgid "seventy"
+msgstr "septyniasdešimt"
+
+#: captcha-plus.php:1399
+#, fuzzy
+msgid "seventy one"
+msgstr "septyniasdešimt"
+
+#: captcha-plus.php:1400
+#, fuzzy
+msgid "seventy two"
+msgstr "septyniasdešimt"
+
+#: captcha-plus.php:1401
+#, fuzzy
+msgid "seventy three"
+msgstr "septyniolika"
+
+#: captcha-plus.php:1402
+#, fuzzy
+msgid "seventy four"
+msgstr "septyniasdešimt"
+
+#: captcha-plus.php:1403
+#, fuzzy
+msgid "seventy five"
+msgstr "septyniasdešimt"
+
+#: captcha-plus.php:1404
+#, fuzzy
+msgid "seventy six"
+msgstr "septyniasdešimt"
+
+#: captcha-plus.php:1405
+#, fuzzy
+msgid "seventy seven"
+msgstr "septyniolika"
+
+#: captcha-plus.php:1406
+#, fuzzy
+msgid "seventy eight"
+msgstr "septyniasdešimt"
+
+#: captcha-plus.php:1407
+#, fuzzy
+msgid "seventy nine"
+msgstr "septyniasdešimt"
+
+#: captcha-plus.php:1409
+msgid "eighty"
+msgstr "aštuoniasdešimt"
+
+#: captcha-plus.php:1410
+#, fuzzy
+msgid "eighty one"
+msgstr "aštuoniasdešimt"
+
+#: captcha-plus.php:1411
+#, fuzzy
+msgid "eighty two"
+msgstr "aštuoniasdešimt"
+
+#: captcha-plus.php:1412
+#, fuzzy
+msgid "eighty three"
+msgstr "aštuoniolika"
+
+#: captcha-plus.php:1413
+#, fuzzy
+msgid "eighty four"
+msgstr "aštuoniasdešimt"
+
+#: captcha-plus.php:1414
+#, fuzzy
+msgid "eighty five"
+msgstr "aštuoniasdešimt"
+
+#: captcha-plus.php:1415
+#, fuzzy
+msgid "eighty six"
+msgstr "aštuoniasdešimt"
+
+#: captcha-plus.php:1416
+#, fuzzy
+msgid "eighty seven"
+msgstr "aštuoniolika"
+
+#: captcha-plus.php:1417
+#, fuzzy
+msgid "eighty eight"
+msgstr "aštuoniasdešimt"
+
+#: captcha-plus.php:1418
+#, fuzzy
+msgid "eighty nine"
+msgstr "aštuoniasdešimt"
+
+#: captcha-plus.php:1420
+msgid "ninety"
+msgstr "devyniasdešimt"
+
+#: captcha-plus.php:1421
+#, fuzzy
+msgid "ninety one"
+msgstr "devyniasdešimt"
+
+#: captcha-plus.php:1422
+#, fuzzy
+msgid "ninety two"
+msgstr "devyniasdešimt"
+
+#: captcha-plus.php:1423
+#, fuzzy
+msgid "ninety three"
+msgstr "devyniolika"
+
+#: captcha-plus.php:1424
+#, fuzzy
+msgid "ninety four"
+msgstr "devyniasdešimt"
+
+#: captcha-plus.php:1425
+#, fuzzy
+msgid "ninety five"
+msgstr "devyniasdešimt"
+
+#: captcha-plus.php:1426
+#, fuzzy
+msgid "ninety six"
+msgstr "devyniasdešimt"
+
+#: captcha-plus.php:1427
+#, fuzzy
+msgid "ninety seven"
+msgstr "devyniolika"
+
+#: captcha-plus.php:1428
+#, fuzzy
+msgid "ninety eight"
+msgstr "devyniasdešimt"
+
+#: captcha-plus.php:1429
+#, fuzzy
+msgid "ninety nine"
+msgstr "devyniasdešimt"
+
+#: captcha-plus.php:1494
+#, fuzzy
+msgid "Encryption password is not set"
+msgstr "Dekodavimo slaptažodis nenustatytas"
+
+#: captcha-plus.php:1514
+#, fuzzy
+msgid "Decryption password is not set"
+msgstr "Dekodavimo slaptažodis nenustatytas"
+
+#: captcha-plus.php:1862 captcha-plus.php:1875
+msgid "Settings"
+msgstr "Nustatymai"
+
+#: captcha-plus.php:1876
+msgid "FAQ"
+msgstr "D.U.K."
+
+#: captcha-plus.php:1877
+msgid "Support"
+msgstr "Pagalba"
+
+#: captcha-plus.php:1903
+#, php-format
+msgid "Try New %s: with Pictures Now!"
+msgstr ""
+
+#: includes/captcha_for_cf7.php:55 includes/captcha_for_cf7.php:57
+#: includes/captcha_for_cf7.php:59
+#, fuzzy
+msgid "BWS CAPTCHA"
+msgstr "Aktyvuoti CAPTCHA:"
+
+#: includes/captcha_for_cf7.php:70 includes/captcha_for_cf7.php:91
+#: includes/captcha_for_cf7.php:114
+msgid "Name"
+msgstr ""
+
+#: includes/captcha_for_cf7.php:76 includes/captcha_for_cf7.php:97
+msgid "Copy this code and paste it into the form left."
+msgstr ""
+
+#: includes/captcha_for_cf7.php:124
+msgid "Insert Tag"
+msgstr ""
+
+#: includes/package_loader.php:27 includes/package_loader.php:140
+msgid ""
+"Can not load images in to the \"uploads\" folder. Please, check your "
+"permissions."
+msgstr ""
+
+#: includes/package_loader.php:39
+msgid "File packages.txt not found. Package not saved."
+msgstr ""
+
+#: includes/package_loader.php:45
+msgid "Can not read data from packages.txt. Packages not saved."
+msgstr ""
+
+#: includes/package_loader.php:168
+msgid "Package successfully loaded."
+msgstr ""
+
+#: includes/whitelist.php:69
+msgid "For IP addresses from the whitelist CAPTCHA will not be displayed"
+msgstr ""
+
+#: includes/whitelist.php:81
+#, php-format
+msgid ""
+"With this option, CAPTCHA will not be displayed for IP-addresses from the "
+"whitelist of %s"
+msgstr ""
+
+#: includes/whitelist.php:92 includes/whitelist.php:128
+msgid "Add IP to whitelist"
+msgstr ""
+
+#: includes/whitelist.php:95
+msgid "Load IP to whitelist"
+msgstr ""
+
+#: includes/whitelist.php:98
+#, php-format
+msgid ""
+"By click on this button, all IP-addresses from the whitelist of %s will be "
+"loaded to the whitelist of %s"
+msgstr ""
+
+#: includes/whitelist.php:107
+#, fuzzy
+msgid "Save changes"
+msgstr "Išsaugoti pakeitimus"
+
+#: includes/whitelist.php:124
+msgid "My IP"
+msgstr ""
+
+#: includes/whitelist.php:132
+msgid "Allowed formats:"
+msgstr ""
+
+#: includes/whitelist.php:133
+msgid "Allowed diapason:"
+msgstr ""
+
+#: includes/whitelist.php:138
+msgid "Search IP"
+msgstr ""
+
+#: includes/whitelist.php:170
+msgid "Nothing found"
+msgstr ""
+
+#: includes/whitelist.php:170
+msgid "No IP in whitelist"
+msgstr ""
+
+#: includes/whitelist.php:177
+msgid "IP address"
+msgstr ""
+
+#: includes/whitelist.php:178
+msgid "Date added"
+msgstr ""
+
+#: includes/whitelist.php:227 includes/whitelist.php:236
+msgid "Remove from whitelist"
+msgstr ""
+
+#: includes/whitelist.php:309
+msgid "IP added to the whitelist successfully"
+msgstr ""
+
+#: includes/whitelist.php:311 includes/whitelist.php:333
+#: includes/whitelist.php:345
+msgid "Some errors occured"
+msgstr ""
+
+#: includes/whitelist.php:313
+msgid "IP is already in the whitelist"
+msgstr ""
+
+#: includes/whitelist.php:316
+msgid "Invalid IP. See allowed formats"
+msgstr ""
+
+#: includes/whitelist.php:339
+msgid "One IP was deleted successfully"
+msgstr ""
+
+#: includes/whitelist.php:348
+msgid "You have not entered any value"
+msgstr ""
+
+#: includes/whitelist.php:351
+msgid "You have not entered any value in to the search form"
+msgstr ""
+
+#: includes/whitelist.php:353
+msgid "Search results for"
+msgstr ""
+
+#: includes/whitelist.php:367
+msgid "IP-address(es) successfully copied to the whitelist"
+msgstr ""
+
+#: includes/whitelist.php:392
+msgid "use"
+msgstr ""
+
+#: includes/whitelist.php:392
+msgid "whitelist of"
+msgstr ""
+
+#: includes/whitelist.php:400 includes/whitelist.php:408
+#, php-format
+msgid "use whitelist of %s"
+msgstr ""
+
+#: includes/whitelist.php:401
+#, php-format
+msgid "you should %s to use this functionality"
+msgstr ""
+
+#: includes/whitelist.php:409
+#, php-format
+msgid "you should instal %s to use this functionality"
+msgstr ""
+
+#~ msgid "and"
+#~ msgstr "ir"
+
+#, fuzzy
+#~ msgid "Download"
+#~ msgstr "Parsisiųsti"
+
+#, fuzzy
+#~ msgid "Enable CAPTCHA"
+#~ msgstr "Aktyvuoti CAPTCHA:"
+
+#, fuzzy
+#~ msgid "Title for CAPTCHA in the form"
+#~ msgstr "CAPTCHA pavadinimas formoje"
+
+#~ msgid "Activate contact form"
+#~ msgstr "Aktyvuoti Contact Form"
+
+#, fuzzy
+#~ msgid "Contact Form"
+#~ msgstr "CONTACT FORM plugin'as"
+
+#~ msgid "Download contact form"
+#~ msgstr "Parsisiųsti Contact Form"
+
+#~ msgid "Register form"
+#~ msgstr "Registravimosi forma"
+
+#~ msgid "Lost password form"
+#~ msgstr "Pamesto slaptažodžio forma"
+
+#, fuzzy
+#~ msgid "ERROR:"
+#~ msgstr "KLAIDA"
